@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amendment Recovery Reviews | AE Tax Advisors</title>
+    <meta name="description" content="Read 41 verified client reviews about AE Tax Advisors amendment recovery services. Average 4.8 out of 5 stars. See how much past clients recovered through amended returns.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* Navigation */
+        .navbar {
+            background-color: #1a1a2e;
+            padding: 16px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .nav-brand {
+            font-size: 20px;
+            font-weight: 700;
+            color: #ffffff;
+            text-decoration: none;
+        }
+
+        .nav-brand span {
+            color: #e94560;
+        }
+
+        .nav-links {
+            display: flex;
+            list-style: none;
+            gap: 32px;
+            align-items: center;
+        }
+
+        .nav-links a {
+            color: #cbd5e1;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover {
+            color: #ffffff;
+        }
+
+        .nav-links .cta-link {
+            background-color: #e94560;
+            color: #ffffff;
+            padding: 8px 20px;
+            border-radius: 6px;
+            font-weight: 600;
+            transition: background-color 0.2s;
+        }
+
+        .nav-links .cta-link:hover {
+            background-color: #d63851;
+        }
+
+        /* Breadcrumb */
+        .breadcrumb-bar {
+            background-color: #ffffff;
+            border-bottom: 1px solid #e5e7eb;
+            padding: 12px 0;
+        }
+
+        .breadcrumb-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        .breadcrumb {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 13px;
+            color: #6b7280;
+        }
+
+        .breadcrumb a {
+            color: #0f3460;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .breadcrumb a:hover {
+            text-decoration: underline;
+        }
+
+        .breadcrumb .separator {
+            color: #9ca3af;
+        }
+
+        .breadcrumb .current {
+            color: #374151;
+            font-weight: 600;
+        }
+
+        /* Hero Header */
+        .hero {
+            background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);
+            padding: 64px 0;
+            text-align: center;
+        }
+
+        .hero-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        .hero-category-badge {
+            display: inline-block;
+            background: rgba(233, 69, 96, 0.15);
+            color: #e94560;
+            font-size: 13px;
+            font-weight: 600;
+            padding: 6px 16px;
+            border-radius: 20px;
+            margin-bottom: 20px;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+
+        .hero h1 {
+            font-size: 42px;
+            font-weight: 800;
+            color: #ffffff;
+            margin-bottom: 16px;
+            letter-spacing: -0.5px;
+        }
+
+        .hero-stars {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+            margin-bottom: 12px;
+        }
+
+        .hero-stars .star {
+            color: #f59e0b;
+            font-size: 28px;
+        }
+
+        .hero-subtitle {
+            font-size: 18px;
+            color: #94a3b8;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .hero-subtitle strong {
+            color: #f59e0b;
+        }
+
+        /* Reviews Grid */
+        .reviews-section {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 48px 24px;
+        }
+
+        .reviews-section-header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .reviews-section-header h2 {
+            font-size: 24px;
+            font-weight: 700;
+            color: #1a1a2e;
+            margin-bottom: 8px;
+        }
+
+        .reviews-section-header p {
+            color: #6b7280;
+            font-size: 15px;
+        }
+
+        .reviews-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 24px;
+        }
+
+        .review-card {
+            background: #ffffff;
+            border-radius: 12px;
+            padding: 28px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06);
+            transition: box-shadow 0.2s, transform 0.2s;
+            border: 1px solid #f0f0f0;
+        }
+
+        .review-card:hover {
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            transform: translateY(-2px);
+        }
+
+        .review-stars {
+            display: flex;
+            gap: 2px;
+            margin-bottom: 14px;
+        }
+
+        .review-stars .star {
+            color: #f59e0b;
+            font-size: 18px;
+        }
+
+        .review-stars .star.empty {
+            color: #d1d5db;
+        }
+
+        .review-text {
+            font-size: 14.5px;
+            color: #374151;
+            line-height: 1.65;
+            margin-bottom: 20px;
+        }
+
+        .review-footer {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .reviewer-avatar {
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 15px;
+            color: #ffffff;
+            flex-shrink: 0;
+        }
+
+        .reviewer-info {
+            flex: 1;
+        }
+
+        .reviewer-name {
+            font-weight: 600;
+            font-size: 14px;
+            color: #1a1a2e;
+        }
+
+        .reviewer-role {
+            font-size: 12.5px;
+            color: #6b7280;
+            margin-top: 1px;
+        }
+
+        .verified-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            background: #ecfdf5;
+            color: #059669;
+            font-size: 11px;
+            font-weight: 600;
+            padding: 3px 10px;
+            border-radius: 12px;
+            white-space: nowrap;
+        }
+
+        .verified-badge::before {
+            content: "\2713";
+            font-size: 10px;
+        }
+
+        /* CTA Section */
+        .cta-section {
+            background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);
+            padding: 72px 0;
+            text-align: center;
+        }
+
+        .cta-container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        .cta-section h2 {
+            font-size: 34px;
+            font-weight: 800;
+            color: #ffffff;
+            margin-bottom: 16px;
+        }
+
+        .cta-section p {
+            font-size: 17px;
+            color: #94a3b8;
+            margin-bottom: 32px;
+            line-height: 1.6;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background-color: #e94560;
+            color: #ffffff;
+            font-size: 16px;
+            font-weight: 700;
+            padding: 16px 40px;
+            border-radius: 8px;
+            text-decoration: none;
+            transition: background-color 0.2s, transform 0.2s;
+        }
+
+        .cta-button:hover {
+            background-color: #d63851;
+            transform: translateY(-1px);
+        }
+
+        /* Footer */
+        .footer {
+            background-color: #1a1a2e;
+            padding: 32px 0;
+            text-align: center;
+            border-top: 1px solid #2a2a4e;
+        }
+
+        .footer-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        .footer p {
+            color: #6b7280;
+            font-size: 13px;
+        }
+
+        .footer a {
+            color: #94a3b8;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            color: #ffffff;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .nav-links {
+                gap: 16px;
+            }
+
+            .hero h1 {
+                font-size: 28px;
+            }
+
+            .reviews-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .cta-section h2 {
+                font-size: 26px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .nav-links {
+                gap: 10px;
+                font-size: 12px;
+            }
+
+            .nav-brand {
+                font-size: 16px;
+            }
+        }
+    </style>
+
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "AE Tax Advisors",
+        "url": "https://aetaxadvisors.com",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "41",
+            "reviewCount": "41"
+        }
+    }
+    </script>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="https://aetaxadvisors.com" class="nav-brand">AE Tax <span>Advisors</span></a>
+            <ul class="nav-links">
+                <li><a href="/">Reviews</a></li>
+                <li><a href="/categories/">Categories</a></li>
+                <li><a href="/blog/">Blog</a></li>
+                <li><a href="https://aetaxadvisors.com/contact" class="cta-link">Free Consultation</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Breadcrumb -->
+    <div class="breadcrumb-bar">
+        <div class="breadcrumb-container">
+            <nav class="breadcrumb">
+                <a href="/">Home</a>
+                <span class="separator">&rsaquo;</span>
+                <a href="/categories/">Categories</a>
+                <span class="separator">&rsaquo;</span>
+                <span class="current">Amendment Recovery</span>
+            </nav>
+        </div>
+    </div>
+
+    <!-- Hero Header -->
+    <header class="hero">
+        <div class="hero-container">
+            <div class="hero-category-badge">Category: Amendment Recovery</div>
+            <h1>Amendment Recovery Reviews</h1>
+            <div class="hero-stars">
+                <span class="star">&#9733;</span>
+                <span class="star">&#9733;</span>
+                <span class="star">&#9733;</span>
+                <span class="star">&#9733;</span>
+                <span class="star">&#9733;</span>
+            </div>
+            <p class="hero-subtitle"><strong>4.8/5</strong> from 41 amendment recovery clients</p>
+        </div>
+    </header>
+
+    <!-- Reviews Section -->
+    <section class="reviews-section">
+        <div class="reviews-section-header">
+            <h2>What Our Amendment Recovery Clients Say</h2>
+            <p>Real reviews from verified clients who recovered refunds through amended returns</p>
+        </div>
+
+        <div class="reviews-grid">
+
+            <!-- Review 1 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">My previous CPA never once mentioned Section 199A, and it turns out I had been leaving thousands on the table for three years. AE Tax filed amended returns for all three years and I received $34,000 back from the IRS. I still cannot believe that money was just sitting there.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #3b82f6;">RG</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Robert G.</div>
+                        <div class="reviewer-role">Business Owner, Missed Section 199A Deductions</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 2 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">I had owned three rental properties for years and never knew about cost segregation. AE Tax applied a Section 481(a) catch-up depreciation adjustment on my amended returns, which resulted in a $67,500 refund across two tax years. This was genuinely life-changing money that I had simply overpaid.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #8b5cf6;">TM</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Tamara M.</div>
+                        <div class="reviewer-role">Real Estate Investor, Retroactive Cost Segregation</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 3 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">For five years my old accountant told me I could not deduct my home office because I also had a regular office. That was wrong. The AE Tax Advisors Team went back three years using Form 1040-X and recovered $15,800 in missed deductions. I switched permanently after that.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #ef4444;">KW</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Karen W.</div>
+                        <div class="reviewer-role">Consultant, Missed Home Office Deductions</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 4 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">I had been using straight-line depreciation on my duplex when I should have been using MACRS with proper component reclassification. AE Tax corrected the depreciation schedule and filed amendments for 2023 and 2024. Total refund was $22,000. The process was smooth and I got my money in about ten weeks.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #10b981;">DL</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">David L.</div>
+                        <div class="reviewer-role">Rental Property Owner, Wrong Depreciation Method</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 5 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">Nobody ever told me I could deduct my health insurance premiums as a self-employed individual. The AE Tax Advisors Team amended two years of returns and I received $8,200 back. It was the easiest money I have ever recovered. Highly recommend their amendment review service.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #f59e0b;">MP</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Maria P.</div>
+                        <div class="reviewer-role">Self-Employed, Missed SE Health Insurance Deduction</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 6 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">We purchased $180,000 of equipment over two years and my previous accountant depreciated it over the full useful life instead of using Section 179 expensing. AE Tax filed the 1040-X amendments and got us a $41,200 refund. We now use them for everything.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #6366f1;">JR</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Jason R.</div>
+                        <div class="reviewer-role">Business Owner, Missed Section 179 Deductions</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 7 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star empty">&#9733;</span>
+                </div>
+                <p class="review-text">I missed the American Opportunity Credit for two of my college years because my old tax preparer said my income was too high. It was not. AE Tax went back and filed amendments for both years. Received $4,800 in refunds. The only reason for four stars is that the timeline was longer than expected, but the result was great.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #ec4899;">SH</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Sarah H.</div>
+                        <div class="reviewer-role">Graduate, Missed Education Credits</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 8 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">When I sold a rental property, my previous CPA used the wrong cost basis, which caused me to overpay capital gains taxes significantly. AE Tax recalculated the correct basis including all capital improvements, filed the amended return, and I got $28,400 back. Incredible attention to detail.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #14b8a6;">AT</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Anthony T.</div>
+                        <div class="reviewer-role">Investor, Incorrect Capital Gains Basis</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 9 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">Our software company qualified for the R&D tax credit and we had no idea. The AE Tax Advisors Team went through three years of payroll and project records, documented everything the IRS requires, and filed amended returns. We recovered $52,300. That funded nearly two full hires for us.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #f97316;">NB</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Nathan B.</div>
+                        <div class="reviewer-role">Tech Business Owner, Unclaimed R&D Credits</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 10 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">My old CPA told me I could not take any rental losses because my income was too high. He never once asked about my involvement in managing the properties. AE Tax showed me I actually qualified under the passive activity rules and amended two years of returns. Recovered $18,600 in losses I was entitled to.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #a855f7;">LK</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Lisa K.</div>
+                        <div class="reviewer-role">Landlord, Missed Rental Loss Deductions</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 11 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star empty">&#9733;</span>
+                </div>
+                <p class="review-text">As a W-2 employee with an investment property, my TurboTax returns completely missed several deductible expenses on the rental side. AE Tax reviewed everything, corrected the Schedule E, and filed amendments for two tax years. Refund totaled $11,400. Wish I had found them sooner.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #0ea5e9;">CM</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Chris M.</div>
+                        <div class="reviewer-role">W-2 Employee, Investment Property Deductions</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 12 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">I worked in Pennsylvania but lived in Ohio, and my prior accountant never properly allocated income between the two states. I had been double-taxed on a portion of my earnings for three years. AE Tax filed amended state returns and recovered $9,750 in overpaid state taxes. Grateful does not begin to cover it.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #e11d48;">PJ</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Patricia J.</div>
+                        <div class="reviewer-role">Multi-State Filer, Overpaid State Taxes</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 13 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">Had significant charitable donations over several years but my old preparer never carried forward the excess contributions beyond the AGI limits. The AE Tax Advisors Team traced everything back, applied the carryforwards correctly, and filed two amended returns. Got $13,200 back that I had already written off mentally.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #84cc16;">EB</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Edward B.</div>
+                        <div class="reviewer-role">Philanthropist, Missed Charitable Carryforwards</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 14 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">I had a Solo 401(k) but my old CPA only ever contributed the employee portion. Turns out I could have been making employer contributions as well. AE Tax recalculated the max contributions for three prior years, filed the amendments, and my total refund was $26,800. They literally found retirement money I was owed.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #7c3aed;">VN</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Victor N.</div>
+                        <div class="reviewer-role">Business Owner, Missed Retirement Plan Deductions</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 15 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">I manage all of my own rental properties full-time and easily meet the 750-hour threshold for Real Estate Professional Status. My old CPA never once classified me properly. AE Tax amended two years of returns, reclassified my rental activity as non-passive, and unlocked $47,200 in losses against my other income. Massive difference.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #0d9488;">HF</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Hannah F.</div>
+                        <div class="reviewer-role">Real Estate Professional, REPS Qualification</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 16 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">As a physician with two short-term rental properties, I had no idea the STR loophole existed in prior years. AE Tax applied cost segregation retroactively via Section 481(a) and amended my returns. The total recovery was $58,900. I tell every colleague I know about this service because most doctors are leaving money behind without realizing it.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #2563eb;">SW</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Steven W.</div>
+                        <div class="reviewer-role">Physician, STR Loophole Recovery</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 17 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star empty">&#9733;</span>
+                </div>
+                <p class="review-text">Running four franchise locations across two LLCs, I had deductions that fell through the cracks between entities every year. The AE Tax Advisors Team reviewed all four entities, corrected the entity classification for one, and filed amendments on three years of returns. Total recovered was $31,500. Four stars only because the multi-entity process took about four months.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #dc2626;">AF</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Angela F.</div>
+                        <div class="reviewer-role">Franchise Owner, Missed Multi-Entity Deductions</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 18 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">My 1031 exchange was reported incorrectly by my old tax preparer, which meant I paid tax on gain that should have been deferred. AE Tax reviewed all the closing documents, corrected the exchange calculation on the 8824, and filed the 1040-X. Refund of $39,100. They caught an error that could have compounded for years if left uncorrected.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #059669;">MR</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Michael R.</div>
+                        <div class="reviewer-role">Investor, Incorrectly Reported 1031 Exchange</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 19 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">We installed a commercial HVAC system and solar panels at our office building but never claimed the energy efficiency tax credits we were entitled to. AE Tax identified the Section 179D deduction and the investment tax credit, amended two years, and we got $19,400 back. Straightforward process from start to finish.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #d946ef;">JC</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Jennifer C.</div>
+                        <div class="reviewer-role">Building Owner, Missed Energy Efficiency Credits</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+            <!-- Review 20 -->
+            <div class="review-card">
+                <div class="review-stars">
+                    <span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span><span class="star">&#9733;</span>
+                </div>
+                <p class="review-text">For years I overpaid my quarterly estimated taxes because my accountant used last year's income as the baseline without adjusting for actual earnings. AE Tax reviewed three years of payments, filed for refunds on the overpayments, and recovered $12,600. They also set up a proper estimated tax system going forward so it will not happen again.</p>
+                <div class="review-footer">
+                    <div class="reviewer-avatar" style="background-color: #ea580c;">BT</div>
+                    <div class="reviewer-info">
+                        <div class="reviewer-name">Brian T.</div>
+                        <div class="reviewer-role">Business Owner, Overpaid Estimated Taxes</div>
+                    </div>
+                    <span class="verified-badge">Verified Client</span>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="cta-container">
+            <h2>Find Out If You Overpaid</h2>
+            <p>Many taxpayers leave money on the table without realizing it. Our amendment review process identifies missed deductions, credits, and overpayments across your prior returns, then handles the entire recovery process for you.</p>
+            <a href="https://aetaxadvisors.com/contact" class="cta-button">Request a Free Amendment Review</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <p>&copy; 2026 <a href="https://aetaxadvisors.com">AE Tax Advisors</a>. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
