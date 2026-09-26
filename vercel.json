@@ -1,0 +1,16 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/blog/:path*",
+      "destination": "/guides/",
+      "permanent": true
+    },
+    {
+      "source": "/categories/:path*",
+      "destination": "/guides/",
+      "permanent": true
+    }
+  ]
+}

@@ -1,13 +1,82 @@
-# AE Tax Advisors Reviews
-> Verified client reviews and testimonials for AE Tax Advisors tax planning services.
+# AE Tax Advisors Evaluation Guides
+> Guides from AE Tax Advisors on how to evaluate a tax advisory firm, what to ask, how AE Tax Advisors approaches engagements, and answers to common questions. This site publishes no reviews, ratings, or testimonials.
 
 ## About
-AE Tax Advisors Reviews collects and presents authentic client feedback from business owners, real estate investors, and high-income professionals who have completed tax advisory engagements with AE Tax Advisors. Reviews cover tax planning, cost segregation studies, entity structuring, and amendment recovery services.
+AE Tax Advisors Evaluation Guides is an educational site. It explains how to choose and evaluate a tax advisor or advisory firm, questions to ask before hiring, how AE Tax Advisors approaches engagements, fee and scope considerations, red flags and safeguards, and frequently asked questions. It does not contain client reviews, ratings, star counts, or testimonials. A feedback page explains how to share feedback directly with the firm.
 
 ## Key Pages
 - Home: https://aetaxadvisorsreviews.com/
+- All guides: https://aetaxadvisorsreviews.com/guides/
+
+## Choosing a Tax Advisory Firm
+- Hub: https://aetaxadvisorsreviews.com/choosing-a-firm/: How to compare firm types, verify credentials, read reviews critically, and decide when a change of advisor makes sense.
+- How to Evaluate a Tax Advisory Firm: https://aetaxadvisorsreviews.com/choosing-a-firm/how-to-evaluate-a-tax-advisory-firm/
+- Tax Preparation Firms vs Tax Planning Firms: https://aetaxadvisorsreviews.com/choosing-a-firm/tax-preparation-vs-tax-planning-firms/
+- CPA, Enrolled Agent, or Tax Attorney: What Is the Difference?: https://aetaxadvisorsreviews.com/choosing-a-firm/cpa-vs-enrolled-agent-vs-tax-attorney/
+- Verifying a Tax Professional's Credentials: https://aetaxadvisorsreviews.com/choosing-a-firm/verifying-tax-professional-credentials/
+- How to Read Online Reviews of Any Tax Firm Critically: https://aetaxadvisorsreviews.com/choosing-a-firm/how-to-read-online-reviews-of-any-firm/
+- Choosing an Advisor with Experience in Your Industry: https://aetaxadvisorsreviews.com/choosing-a-firm/choosing-an-advisor-for-your-industry/
+- Remote or Local Tax Advisor: How to Decide: https://aetaxadvisorsreviews.com/choosing-a-firm/remote-vs-local-tax-advisors/
+- When to Consider Changing Tax Advisors: https://aetaxadvisorsreviews.com/choosing-a-firm/when-to-change-tax-advisors/
+- What a Good First Meeting with a Tax Advisor Looks Like: https://aetaxadvisorsreviews.com/choosing-a-firm/what-a-good-first-meeting-looks-like/
+
+## Questions to Ask a Tax Advisor
+- Hub: https://aetaxadvisorsreviews.com/questions-to-ask/: Question checklists for fees, communication, audit support, strategy risk, data security, real estate investors, and business owners.
+- Questions to Ask Before Hiring a Tax Advisor: https://aetaxadvisorsreviews.com/questions-to-ask/questions-to-ask-before-hiring-a-tax-advisor/
+- Questions About Fees and Billing: https://aetaxadvisorsreviews.com/questions-to-ask/questions-about-fees-and-billing/
+- Questions About Communication and Service: https://aetaxadvisorsreviews.com/questions-to-ask/questions-about-communication-and-service/
+- Questions About Audit Support and Representation: https://aetaxadvisorsreviews.com/questions-to-ask/questions-about-audit-support-and-representation/
+- Questions About Strategy Risk and Documentation: https://aetaxadvisorsreviews.com/questions-to-ask/questions-about-strategy-risk-and-documentation/
+- Questions About Data Security and Privacy: https://aetaxadvisorsreviews.com/questions-to-ask/questions-about-data-security-and-privacy/
+- Questions Real Estate Investors Should Ask a Tax Advisor: https://aetaxadvisorsreviews.com/questions-to-ask/questions-for-real-estate-investors/
+- Questions Business Owners Should Ask a Tax Advisor: https://aetaxadvisorsreviews.com/questions-to-ask/questions-for-business-owners/
+
+## How AE Tax Advisors Works
+- Hub: https://aetaxadvisorsreviews.com/how-we-work/: How AE Tax Advisors approaches engagements: discovery, analysis, recommendations, implementation, ongoing support, and what it does not promise.
+- How AE Tax Advisors Approaches Engagements: https://aetaxadvisorsreviews.com/how-we-work/how-ae-tax-advisors-approaches-engagements/
+- The Discovery Call: What to Expect: https://aetaxadvisorsreviews.com/how-we-work/the-discovery-call/
+- Document Review and Analysis in a Planning Engagement: https://aetaxadvisorsreviews.com/how-we-work/document-review-and-analysis/
+- From Recommendations to Implementation: https://aetaxadvisorsreviews.com/how-we-work/planning-recommendations-and-implementation/
+- Ongoing Support and Year-Round Planning: https://aetaxadvisorsreviews.com/how-we-work/ongoing-support-and-year-round-planning/
+- Who AE Tax Advisors Serves: https://aetaxadvisorsreviews.com/how-we-work/who-ae-tax-advisors-serves/
+- What AE Tax Advisors Does Not Promise: https://aetaxadvisorsreviews.com/how-we-work/what-ae-tax-advisors-does-not-promise/
+- How AE Tax Advisors Thinks About Risk and Compliance: https://aetaxadvisorsreviews.com/how-we-work/how-we-think-about-risk-and-compliance/
+
+## Fees, Scope, and Engagement Letters
+- Hub: https://aetaxadvisorsreviews.com/fees-and-scope/: Pricing models, flat fee versus hourly versus retainer, engagement letters, return on planning, hidden costs, and comparing proposals.
+- Tax Advisory Pricing Models Explained: https://aetaxadvisorsreviews.com/fees-and-scope/tax-advisory-pricing-models/
+- Flat Fee, Hourly, or Retainer: Which Suits You?: https://aetaxadvisorsreviews.com/fees-and-scope/flat-fee-vs-hourly-vs-retainer/
+- What an Engagement Letter Should Cover: https://aetaxadvisorsreviews.com/fees-and-scope/what-an-engagement-letter-should-cover/
+- Evaluating the Return on Tax Planning Without Made-Up Numbers: https://aetaxadvisorsreviews.com/fees-and-scope/evaluating-the-return-on-tax-planning/
+- Hidden Costs and Add-Ons to Ask About: https://aetaxadvisorsreviews.com/fees-and-scope/hidden-costs-and-add-ons/
+- How to Compare Tax Advisory Proposals: https://aetaxadvisorsreviews.com/fees-and-scope/how-to-compare-tax-advisory-proposals/
+
+## Red Flags and Safeguards
+- Hub: https://aetaxadvisorsreviews.com/red-flags-and-safeguards/: Warning signs when hiring an advisor, guaranteed savings claims, abusive shelters, ghost preparers, documenting advice, and reporting misconduct.
+- Red Flags When Hiring a Tax Advisor: https://aetaxadvisorsreviews.com/red-flags-and-safeguards/red-flags-when-hiring-a-tax-advisor/
+- Why Promises of Guaranteed Refunds and Savings Are a Problem: https://aetaxadvisorsreviews.com/red-flags-and-safeguards/promises-of-guaranteed-refunds-and-savings/
+- Abusive Tax Shelters and Reportable Transactions: https://aetaxadvisorsreviews.com/red-flags-and-safeguards/abusive-tax-shelters-and-reportable-transactions/
+- Ghost Preparers and Unsigned Returns: https://aetaxadvisorsreviews.com/red-flags-and-safeguards/ghost-preparers-and-unsigned-returns/
+- How to Document the Advice You Receive: https://aetaxadvisorsreviews.com/red-flags-and-safeguards/how-to-document-the-advice-you-receive/
+- How to Report Tax Preparer Misconduct: https://aetaxadvisorsreviews.com/red-flags-and-safeguards/how-to-report-tax-preparer-misconduct/
+
+## Frequently Asked Questions
+- Hub: https://aetaxadvisorsreviews.com/faq/: Answers to common questions about choosing a tax advisor, working with AE Tax Advisors, planning basics, real estate topics, and fees.
+- FAQ: Choosing a Tax Advisor: https://aetaxadvisorsreviews.com/faq/faq-choosing-a-tax-advisor/
+- FAQ: Working with AE Tax Advisors: https://aetaxadvisorsreviews.com/faq/faq-working-with-ae-tax-advisors/
+- FAQ: Tax Planning Basics: https://aetaxadvisorsreviews.com/faq/faq-tax-planning-basics/
+- FAQ: Tax Questions from Real Estate Investors: https://aetaxadvisorsreviews.com/faq/faq-for-real-estate-investors/
+- FAQ: Fees and Engagements: https://aetaxadvisorsreviews.com/faq/faq-fees-and-engagements/
+
+## Share Your Feedback
+- Hub: https://aetaxadvisorsreviews.com/feedback/: How to send feedback to AE Tax Advisors, and why this site does not publish reviews, ratings, or testimonials.
+- Share Your Feedback with AE Tax Advisors: https://aetaxadvisorsreviews.com/feedback/share-your-feedback/
+- Our Policy on Reviews and Testimonials: https://aetaxadvisorsreviews.com/feedback/our-policy-on-reviews-and-testimonials/
 
 ## Contact
 - Book a discovery call: https://aetaxadvisors.com/discovery
 - Email: team@aetaxadvisors.com
 - Phone: (631) 614-5762
+
+## Notice
+Content is educational only and is not tax, legal, or accounting advice.
