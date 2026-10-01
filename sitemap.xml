@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://aetaxadvisorsreviews.com/choosing-a-firm/how-to-evaluate-a-tax-advisory-firm/</loc>
@@ -104,7 +104,7 @@
   </url>
   <url>
     <loc>https://aetaxadvisorsreviews.com/how-we-work/how-ae-tax-advisors-approaches-engagements/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -308,14 +308,110 @@
   </url>
   <url>
     <loc>https://aetaxadvisorsreviews.com/guides/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://aetaxadvisorsreviews.com/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/short-term-rental/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/cost-segregation/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/s-corporation/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/c-corporation/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/medical-dental/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/retirement-planning/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/construction-trades/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/ecommerce/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/professional-services/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/multi-entity/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/rental-commercial-property/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/software-technology/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/analysis/w2-couple-str-offset/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/analysis/dental-practice-cost-seg-entity-restructuring/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/analysis/private-medical-practice-c-corp-defined-benefit/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/analysis/sole-prop-to-s-corp-contractor/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/analysis/s-corp-officer-comp-correction/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/analysis/self-storage-facility-cost-seg-automation/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/analysis/law-firm-partner-s-corp-cash-balance-plan/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/analysis/tech-consulting-firm-ic-classification-accountable-plan/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/methodology/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/fees-and-scope/ae-tax-advisors-7800-engagement/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/faq/ae-tax-advisors-case-studies-and-results/</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://aetaxadvisorsreviews.com/case-studies/</loc>
+    <lastmod>2026-09-30</lastmod>
   </url>
 </urlset>
