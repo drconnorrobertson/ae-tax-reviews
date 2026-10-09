@@ -12,5 +12,7 @@
       "destination": "/guides/",
       "permanent": true
     }
-  ]
+  ],
+  "buildCommand": "node decision-library-build.cjs",
+  "outputDirectory": "public"
 }
