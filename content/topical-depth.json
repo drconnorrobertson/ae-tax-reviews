@@ -1,0 +1,372 @@
+{
+  "key": "reviews",
+  "domain": "aetaxadvisorsreviews.com",
+  "date": "2026-10-09",
+  "baseline": 200,
+  "target": 400,
+  "route": "proposal-lab",
+  "publisher": "AE Tax Advisors",
+  "service": "https://www.aetaxadvisors.com/pricing/",
+  "topics": [
+    {
+      "title": "Tax planning proposal deliverable boundaries",
+      "trigger": "A buyer receives a broad promise to reduce taxes but no list of completed work products.",
+      "principle": "Compare the written deliverables and excluded work before comparing headline fees. Advice, preparation and implementation can be separate engagements.",
+      "example": "One quote includes an annual planning meeting while another includes documented recommendations and quarterly follow-up.",
+      "checks": [
+        "Named deliverable inventory",
+        "Planning meeting scope",
+        "Written recommendation format",
+        "Implementation exclusions",
+        "Return preparation boundary",
+        "Client record obligations",
+        "Revision policy comparison",
+        "Acceptance criteria wording",
+        "Final engagement match"
+      ],
+      "tag": "scope"
+    },
+    {
+      "title": "Tax advisory recurring fee comparison",
+      "trigger": "A monthly package lists access to advisers without defining recurring tasks.",
+      "principle": "Compare the services, cadence and fee triggers in writing. Frequent access and completed compliance work are different benefits.",
+      "example": "A buyer compares a lower monthly fee with a higher package that includes scheduled reviews and limited preparation services.",
+      "checks": [
+        "Recurring task inventory",
+        "Meeting cadence commitment",
+        "Response-time wording",
+        "Included entity count",
+        "Annual return inclusion",
+        "Out-of-scope rate schedule",
+        "Renewal change notice",
+        "Cancellation conditions",
+        "First-year total comparison"
+      ],
+      "tag": "fees"
+    },
+    {
+      "title": "Tax projection assumption transparency",
+      "trigger": "A proposal presents projected savings before the buyer provides complete financial information.",
+      "principle": "Treat projected benefits as assumption-dependent estimates. Ask what facts, baseline and implementation work support the comparison.",
+      "example": "A firm presents an estimated deduction while the client has not supplied basis, participation or household income details.",
+      "checks": [
+        "Projection baseline definition",
+        "Income assumption sources",
+        "Deduction eligibility inputs",
+        "State treatment assumptions",
+        "Implementation cost inclusion",
+        "Deduction versus savings distinction",
+        "Unusable deduction treatment",
+        "Sensitivity range explanation",
+        "Updated written estimate"
+      ],
+      "tag": "projection"
+    },
+    {
+      "title": "Cost segregation quote methodology",
+      "trigger": "Two study providers offer different prices and descriptions of technical work.",
+      "principle": "Compare source reconciliation, methodology, scope and preparer coordination. A lower fee or larger estimated deduction does not independently establish a better report.",
+      "example": "One proposal emphasizes a site review while another relies on remote evidence and neither explains missing-record handling.",
+      "checks": [
+        "Property scope definition",
+        "Information collection method",
+        "Source cost reconciliation",
+        "Component identification detail",
+        "Estimate disclosure policy",
+        "Technical review process",
+        "Report correction terms",
+        "Preparer coordination scope",
+        "Written methodology comparison"
+      ],
+      "tag": "costseg"
+    },
+    {
+      "title": "Cost segregation audit support terms",
+      "trigger": "A provider advertises audit support without specifying the work included.",
+      "principle": "Distinguish answering report questions, supplying workpapers and representing a taxpayer. Confirm limits, duration and additional fees in the contract.",
+      "example": "An investor assumes that audit support includes handling an IRS examination, but the proposal only includes clarification of the study.",
+      "checks": [
+        "Support service definition",
+        "Covered report period",
+        "Workpaper availability",
+        "Representation credentials",
+        "Exam notice routing",
+        "Additional fee triggers",
+        "Provider departure contingency",
+        "Response timeline wording",
+        "Written support acceptance"
+      ],
+      "tag": "costseg"
+    },
+    {
+      "title": "Amended return engagement scope",
+      "trigger": "A buyer asks for a lookback review covering several years and entities.",
+      "principle": "Separate issue identification, preparation, filing and follow-up. Each year, entity and state can require distinct work and factual support.",
+      "example": "A planning proposal includes a prior-year review but the buyer assumes three amended returns are already included.",
+      "checks": [
+        "Covered tax year list",
+        "Entity and tax ID count",
+        "Federal return inclusion",
+        "State return inclusion",
+        "Issue research boundary",
+        "Client document duties",
+        "Signing and filing steps",
+        "Agency follow-up terms",
+        "Final lookback price schedule"
+      ],
+      "tag": "amendment"
+    },
+    {
+      "title": "Form 3115 coordination scope",
+      "trigger": "A study proposal mentions catch-up depreciation but does not identify the professional handling the tax procedure.",
+      "principle": "A cost segregation report and a tax method change filing are different deliverables. Ask the preparer to determine the applicable procedure and required work.",
+      "example": "An owner orders a study for an older rental and discovers that the report provider does not prepare the tax filing.",
+      "checks": [
+        "Study deliverable boundary",
+        "Prior history review owner",
+        "Procedure determination owner",
+        "Form preparation inclusion",
+        "Supporting statement responsibility",
+        "Filing deadline coordination",
+        "State adjustment review",
+        "Implementation confirmation evidence",
+        "Separate engagement pricing"
+      ],
+      "tag": "depreciation"
+    },
+    {
+      "title": "Bookkeeping cleanup opening balances",
+      "trigger": "A buyer requests cleanup but the provider starts from unverified account balances.",
+      "principle": "Compare how opening balances, prior-year adjustments and missing evidence will be resolved. Reconciled cash accounts do not prove every balance-sheet account is correct.",
+      "example": "A new bookkeeper cleans transactions while old shareholder loans and fixed-asset balances remain unsupported.",
+      "checks": [
+        "Opening balance evidence",
+        "Prior return comparison",
+        "Bank reconciliation scope",
+        "Credit card reconciliation",
+        "Loan account treatment",
+        "Fixed asset review boundary",
+        "Owner equity review",
+        "Unresolved item reporting",
+        "Preparer adjustment approval"
+      ],
+      "tag": "records"
+    },
+    {
+      "title": "Payroll correction vendor responsibility",
+      "trigger": "A client needs historical payroll changes and several professionals are involved.",
+      "principle": "Identify who investigates, authorizes, files and verifies each correction. A tax adviser recommendation does not mean the payroll provider has implemented it.",
+      "example": "An owner changes payroll firms after learning that a prior W-2 omitted an owner health insurance reporting item.",
+      "checks": [
+        "Affected period inventory",
+        "Correction diagnosis owner",
+        "Payroll data access",
+        "Approval responsibility",
+        "Amended form inclusion",
+        "State correction boundary",
+        "Employee communication duty",
+        "Filing confirmation evidence",
+        "Agency notice support"
+      ],
+      "tag": "payroll"
+    },
+    {
+      "title": "Retirement planning provider roles",
+      "trigger": "A proposal combines tax planning with discussion of retirement contributions.",
+      "principle": "Clarify the roles of the tax adviser, plan administrator and investment professional. A tax projection does not replace plan design or eligibility testing.",
+      "example": "A business owner expects a large contribution while the administrator has not reviewed the employee census.",
+      "checks": [
+        "Plan design responsibility",
+        "Employee census analysis",
+        "Administrator engagement inclusion",
+        "Contribution calculation owner",
+        "Funding instruction scope",
+        "Tax deduction review owner",
+        "Investment advice boundary",
+        "Annual administration fees",
+        "Provider coordination schedule"
+      ],
+      "tag": "retirement"
+    },
+    {
+      "title": "Multi-entity advisory quote coverage",
+      "trigger": "A buyer owns several operating and property entities but the quote states one advisory fee.",
+      "principle": "List each entity, owner and return separately. The number of legal entities, tax returns and planning issues may not be the same.",
+      "example": "A company group includes two disregarded LLCs, a partnership and an S corporation with different owners.",
+      "checks": [
+        "Legal entity inventory",
+        "Tax classification map",
+        "Owner coverage list",
+        "Return count definition",
+        "Related-party work scope",
+        "New entity fee policy",
+        "Separate state inclusion",
+        "Implementation responsibility map",
+        "Signed coverage schedule"
+      ],
+      "tag": "entity"
+    },
+    {
+      "title": "State tax work exclusions",
+      "trigger": "A package describes federal tax strategy but the buyer operates across state lines.",
+      "principle": "Ask which state filings, elections and nexus questions are covered. Formation in one state does not settle obligations arising from actual activity elsewhere.",
+      "example": "A remote business is formed in one state but has workers and sales activity in several others.",
+      "checks": [
+        "Operating location inventory",
+        "Worker state evidence",
+        "Customer activity summary",
+        "State return coverage",
+        "Nexus analysis inclusion",
+        "Election service inclusion",
+        "Registration responsibility",
+        "State notice support",
+        "Excluded state work price"
+      ],
+      "tag": "state"
+    },
+    {
+      "title": "Implementation responsibility comparison",
+      "trigger": "Two advisory proposals include recommendations but assign follow-through differently.",
+      "principle": "Compare who completes each step and what proves completion. A checklist marked recommended is not the same as a filed election or corrected payroll record.",
+      "example": "An owner assumes the tax adviser coordinates payroll and bookkeeping changes, while the agreement assigns both to the client.",
+      "checks": [
+        "Recommendation task register",
+        "Client action obligations",
+        "Provider action obligations",
+        "Third-party coordination",
+        "Approval checkpoints",
+        "Completion evidence definition",
+        "Deadline escalation process",
+        "Unfinished work treatment",
+        "Implementation acceptance record"
+      ],
+      "tag": "scope"
+    },
+    {
+      "title": "Tax adviser response standards",
+      "trigger": "A buyer values responsiveness but proposals use broad terms such as priority support.",
+      "principle": "Compare the channel, hours, response target and escalation route. A response commitment may mean acknowledgement rather than a completed technical answer.",
+      "example": "A buyer expects same-day technical advice although the provider promises only prompt acknowledgement during business hours.",
+      "checks": [
+        "Supported contact channels",
+        "Published service hours",
+        "Acknowledgement target",
+        "Technical answer timeframe",
+        "Urgent issue definition",
+        "Named escalation role",
+        "Document completeness dependency",
+        "Vacation coverage wording",
+        "Written response commitment"
+      ],
+      "tag": "scope"
+    },
+    {
+      "title": "Tax professional credential verification",
+      "trigger": "A buyer sees credentials and testimonials on a proposal or website.",
+      "principle": "Verify the actual professional and role through appropriate official sources. The credentials of one team member do not automatically identify who signs or reviews the client's work.",
+      "example": "A firm advertises a CPA-led team while the buyer cannot identify the person responsible for the proposed return review.",
+      "checks": [
+        "Named professional identification",
+        "Official credential lookup",
+        "Credential jurisdiction",
+        "Return signing role",
+        "Technical review role",
+        "Representation role",
+        "Subcontractor disclosure",
+        "Credential change notification",
+        "Written reviewer assignment"
+      ],
+      "tag": "credentials"
+    },
+    {
+      "title": "Tax advisory refund and cancellation terms",
+      "trigger": "A buyer considers an engagement with staged fees and work already begun.",
+      "principle": "Read the cancellation, earned-fee and refund provisions before signing. A marketing assurance may be narrower than the contract.",
+      "example": "A client cancels after a discovery meeting and document review but before a written plan is delivered.",
+      "checks": [
+        "Payment schedule wording",
+        "Work milestone definition",
+        "Earned fee conditions",
+        "Refund eligibility criteria",
+        "Cancellation notice process",
+        "Automatic renewal wording",
+        "Document return terms",
+        "Dispute resolution provision",
+        "Signed term comparison"
+      ],
+      "tag": "fees"
+    },
+    {
+      "title": "Tax report ownership and portability",
+      "trigger": "A buyer wants to change firms without losing essential history and work products.",
+      "principle": "Compare access to final deliverables, source documents and exportable records. Portal access and rights to internal workpapers may differ.",
+      "example": "A buyer expects every planning worksheet to transfer to a new firm, but the agreement defines a smaller set of client deliverables.",
+      "checks": [
+        "Final deliverable ownership",
+        "Source document return",
+        "Portal access duration",
+        "Export format availability",
+        "Basis schedule inclusion",
+        "Depreciation schedule inclusion",
+        "Internal workpaper boundary",
+        "Transition assistance fees",
+        "Written portability commitment"
+      ],
+      "tag": "records"
+    },
+    {
+      "title": "Tax planning and tax preparation separation",
+      "trigger": "A buyer wants advice and annual filing from one provider.",
+      "principle": "Determine which services are actually included and who reconciles recommendations to the return. A planning engagement can exist without a preparation engagement.",
+      "example": "A client receives entity advice in November but their separate preparer does not receive the implementation evidence.",
+      "checks": [
+        "Planning deliverable scope",
+        "Federal filing inclusion",
+        "Business return coverage",
+        "Individual return coverage",
+        "State filing coverage",
+        "Preparer coordination terms",
+        "Year-end handoff package",
+        "Recommendation reconciliation",
+        "Separate service total price"
+      ],
+      "tag": "scope"
+    },
+    {
+      "title": "Tax adviser deadline readiness",
+      "trigger": "A buyer requests work close to a filing or transaction date.",
+      "principle": "Compare the required inputs, dependency dates and acceptance of responsibility. No provider can responsibly promise completion of unknown work without relevant facts.",
+      "example": "A client sends partial records shortly before a deadline and assumes a signed agreement guarantees immediate filing.",
+      "checks": [
+        "Requested completion date",
+        "Mandatory input checklist",
+        "Input receipt cutoff",
+        "Scope confirmation date",
+        "Extension decision owner",
+        "Incomplete-record policy",
+        "Client approval window",
+        "Provider acceptance evidence",
+        "Missed dependency escalation"
+      ],
+      "tag": "timing"
+    },
+    {
+      "title": "Tax notice support package comparison",
+      "trigger": "A buyer expects ongoing support for notices after a return is filed.",
+      "principle": "Distinguish explanation of a notice, payment-credit reconciliation and formal representation. Confirm which return periods and types of notices are included.",
+      "example": "A client receives an agency notice and discovers that their annual package covers only the originally prepared return.",
+      "checks": [
+        "Covered notice types",
+        "Covered return periods",
+        "Initial triage inclusion",
+        "Payment reconciliation scope",
+        "Response drafting inclusion",
+        "Representation authorization",
+        "Appeal service exclusion",
+        "Additional fees and limits",
+        "Closure evidence commitment"
+      ],
+      "tag": "records"
+    }
+  ]
+}
