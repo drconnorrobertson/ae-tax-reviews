@@ -1,0 +1,229 @@
+{
+  "key": "reviews",
+  "repo": "ae-tax-reviews",
+  "domain": "aetaxadvisorsreviews.com",
+  "target": 200,
+  "route": "proposal-lab",
+  "title": "Tax Advisor Proposal Comparison Lab",
+  "contexts": [
+    [
+      "Tax planning engagements",
+      "Compare the analysis, written deliverables, implementation and follow-up actually included in the proposal.",
+      "entity list; tax years; plan deliverables; implementation tasks; meeting scope",
+      "One quote includes a written plan while another includes meetings only.",
+      "Ask for a scope bridge rather than treating the fee as an equivalent-service comparison."
+    ],
+    [
+      "Tax return preparation",
+      "Specify each taxpayer, return type, jurisdiction and source-data responsibility.",
+      "return list; entities; states; bookkeeping status; filing deadlines",
+      "A low headline fee excludes additional state returns and bookkeeping cleanup.",
+      "Compare the full filing set and the work needed to make it ready."
+    ],
+    [
+      "Amended return services",
+      "Identify the years, issues, original records and follow-up responsibilities.",
+      "original returns; amendment issues; supporting records; state filings; notice handling",
+      "A proposal covers one federal amendment but not related state work.",
+      "Document the actual return set and unresolved procedure questions."
+    ],
+    [
+      "Cost segregation studies",
+      "Compare the property facts, methodology, report detail and return-preparer coordination.",
+      "property basis; study scope; inspection approach; report deliverables; filing coordination",
+      "Two providers quote different cost pools for the same property.",
+      "Standardize the facts and distinguish the report from implementation."
+    ],
+    [
+      "Bookkeeping cleanup",
+      "Define the accounts, period, reconciliation standard and final deliverables.",
+      "account list; ledger export; bank statements; cutoff date; opening balances",
+      "A cleanup fee covers transaction coding but excludes balance-sheet reconciliation.",
+      "State the acceptance criteria before comparing the proposals."
+    ],
+    [
+      "Payroll support",
+      "Specify entities, employees, owner payments and responsibility for filings and corrections.",
+      "payroll entities; pay schedule; owner wage records; filing list; benefit reporting",
+      "A payroll provider processes wages but expects another person to classify owner payments.",
+      "Assign responsibility for the boundary between processing and tax review."
+    ],
+    [
+      "Retirement plan coordination",
+      "Clarify the role of the advisor, administrator, actuary and payroll team.",
+      "employee census; compensation; plan documents; funding dates; provider responsibilities",
+      "A tax proposal models a contribution but does not include plan administration.",
+      "Compare the whole implementation chain and recurring costs."
+    ],
+    [
+      "Multi-state tax services",
+      "List jurisdictions, entities, transaction facts and the scope of registration and filing work.",
+      "state activity list; payroll locations; sales records; entity registrations; prior returns",
+      "A quote covers income-tax filing while sales-tax and payroll questions remain open.",
+      "Record what each professional will review and what remains outside scope."
+    ]
+  ],
+  "tasks": [
+    [
+      "Unclear deliverables",
+      "Turn a broad marketing description into a written service list.",
+      "Ask for the actual files, meetings, analyses and implementation tasks provided. Mark items absent from the proposal. Separate an educational discussion from a written recommendation and completed implementation.",
+      "A deliverable register linked to the agreement.",
+      "The proposal says strategy without identifying what the client receives.",
+      "What specific deliverable establishes completion of the service?",
+      "deliverable; format; responsible professional; due point; acceptance evidence"
+    ],
+    [
+      "Multiple entities",
+      "Determine exactly which taxpayers and entities the quote covers.",
+      "Prepare the full entity and owner list, then match each item to included work and excluded work. Ask how added entities or jurisdictions change the scope and fee. Keep the comparison anchored to the same filing and analysis set.",
+      "An entity-by-scope matrix.",
+      "The headline fee covers fewer entities than the buyer assumes.",
+      "Which entities and owners are included and what changes the quoted fee?",
+      "entity category; included work; excluded work; additional fee basis; coordination"
+    ],
+    [
+      "Separate preparer",
+      "Clarify coordination when the buyer retains another return preparer.",
+      "Identify what the new provider supplies and what the existing preparer must evaluate or implement. Ask for the transfer format, communication process and follow-up responsibilities. Neither side's silence establishes acceptance of the work.",
+      "A two-provider responsibility map.",
+      "Each professional assumes the other will implement the recommendation.",
+      "Who accepts the implementation task and how will disagreements be resolved?",
+      "provider task; preparer task; transfer method; open question; completion owner"
+    ],
+    [
+      "Time-sensitive transaction",
+      "Check whether the engagement can answer the question before the decision must be made.",
+      "Record the actual transaction date, missing inputs and review milestones. Ask the provider to distinguish a target turnaround from a contractual deliverable. Do not assume that buying a service extends a tax or transaction deadline.",
+      "A deadline and evidence schedule.",
+      "The service timeline leaves no time for the buyer's decision.",
+      "What can be completed with the available records before the stated deadline?",
+      "decision date; missing input; review milestone; dependency; contingency"
+    ],
+    [
+      "Incomplete source records",
+      "Determine what cleanup or reconstruction sits outside the quoted work.",
+      "Identify missing books, schedules, invoices and ownership records. Ask who reconstructs the file, what alternatives are acceptable and how uncertainty is documented. A fixed fee does not guarantee that incomplete inputs support a conclusion.",
+      "A source-gap and reconstruction scope file.",
+      "The provider quotes from preliminary figures without defining missing-record work.",
+      "Which missing records change the scope, cost or ability to complete the analysis?",
+      "missing record; source owner; reconstruction task; cost effect; uncertainty"
+    ],
+    [
+      "Recurring costs",
+      "Compare initial and ongoing costs over the intended engagement period.",
+      "Separate advisory, filing, administration and third-party charges. Record renewals and the work included in each period. Model several durations without assuming the lowest first invoice is the lowest overall cost.",
+      "A dated recurring-cost comparison.",
+      "An initial fee excludes substantial required follow-up services.",
+      "What recurring work and cost does the recommendation create?",
+      "initial fee; recurring fee; renewal terms; third-party charges; covered period"
+    ],
+    [
+      "Follow-up and escalation",
+      "Define what happens after the main deliverable arrives.",
+      "Ask how clarifications are requested, who handles substantive questions and when additional work needs a new scope. Record escalation contacts and agreed follow-up points. A general promise of support should be converted into an understandable process.",
+      "A clarification and escalation record.",
+      "There is no named route for a material implementation question.",
+      "Who owns follow-up and what questions are outside the engagement?",
+      "contact role; question channel; expected process; escalation; extra-work boundary"
+    ],
+    [
+      "Large projected benefit",
+      "Review the methodology behind a proposed financial benefit.",
+      "Identify the baseline, tax years, assumptions, fees and future consequences. Distinguish deductions, timing effects and verified outcomes. Use the provider's model as a question for professional review rather than a guaranteed result.",
+      "A benefit-assumption comparison.",
+      "A deduction headline is described as an equivalent amount of tax savings.",
+      "What assumptions and omitted costs change the projected benefit?",
+      "baseline; benefit measure; assumptions; fees; future consequences"
+    ],
+    [
+      "Changing facts",
+      "Agree how the engagement handles a material change in the business or transaction.",
+      "List potential changes in ownership, employees, income, property use or transaction terms. Ask what triggers a revised analysis and how the work is priced. Preserve the facts used for each version of the recommendation.",
+      "A change-of-facts and revision log.",
+      "The client keeps using an analysis after its assumptions changed.",
+      "When must the recommendation be revisited and who starts that review?",
+      "original fact; changed fact; effective date; revised scope; review owner"
+    ],
+    [
+      "Evidence of implementation",
+      "Specify how the parties will know the work was actually carried out.",
+      "Separate recommendation, approval, implementation and verification. Ask for the records supporting each stage. A delivered plan does not itself show that payroll, filings or other implementation tasks were completed.",
+      "A stage-by-stage completion map.",
+      "A proposal or draft is presented as a completed result.",
+      "Which evidence supports each completed stage and what remains open?",
+      "proposed step; approval; action owner; completion record; verified status"
+    ],
+    [
+      "Credentials and roles",
+      "Verify actual engagement personnel and their responsibilities.",
+      "Ask who performs, reviews and implements the work, and verify relevant credentials through official sources. Distinguish the public spokesperson from assigned engagement staff. Do not invent a reviewer or infer assignment from a biography.",
+      "A people-and-role verification register.",
+      "The buyer knows the brand but not the assigned professionals.",
+      "Who is assigned and which qualifications are relevant to the work?",
+      "assigned role; named professional; official credential source; review responsibility; contact"
+    ],
+    [
+      "Cancellation and transition",
+      "Clarify records, unfinished work and obligations if the relationship ends.",
+      "Read the agreement and ask for written clarification of disputed or unclear terms. Identify the work delivered, records retained and open deadlines. This worksheet organizes questions and does not provide a legal interpretation of cancellation rights.",
+      "A transition and outstanding-task record.",
+      "An unfinished engagement leaves filing responsibility unclear.",
+      "Who receives the records and who handles open deadlines after transition?",
+      "delivered work; unfinished task; record transfer; payment question; deadline owner"
+    ]
+  ],
+  "masters": [
+    [
+      "Proposal comparison workspace",
+      "Compare equivalent deliverables from written proposals without assigning invented provider ratings.",
+      "provider; deliverable; initial fee; recurring fee; scope gap"
+    ],
+    [
+      "Fee schedule comparison",
+      "Separate first-year and recurring engagement costs over a stated period.",
+      "fee type; provider; amount; covered period; exclusion"
+    ],
+    [
+      "Engagement timeline comparison",
+      "Test whether each proposed service fits the actual decision deadline.",
+      "milestone; provider; required input; due point; dependency"
+    ],
+    [
+      "Implementation responsibility comparison",
+      "Compare who owns the actions after a recommendation is delivered.",
+      "action; provider role; client role; preparer role; evidence"
+    ],
+    [
+      "Evidence request agenda",
+      "Build fair questions about projected benefits without requesting another client's confidential records.",
+      "claim; assumption; methodology question; source request; limitation"
+    ],
+    [
+      "Advisor credential verification file",
+      "Record assigned professionals and relevant official licensing verification.",
+      "professional; assigned task; jurisdiction; official source; unresolved question"
+    ],
+    [
+      "Scope change comparison",
+      "Clarify how added entities, records or transaction changes affect the engagement.",
+      "changed fact; covered work; additional scope; fee basis; approval"
+    ],
+    [
+      "Follow-up support comparison",
+      "Compare clarification channels and agreed follow-up boundaries.",
+      "question type; contact; channel; scope boundary; escalation"
+    ],
+    [
+      "Transition checklist comparison",
+      "Compare the unfinished work and records that must be transferred if the engagement ends.",
+      "record; unfinished work; deadline; responsible person; agreement question"
+    ]
+  ],
+  "service": "https://www.aetaxadvisors.com/pricing/",
+  "sources": [
+    "https://www.irs.gov/tax-professionals/choosing-a-tax-professional"
+  ],
+  "date": "2026-10-09",
+  "publisher": "AE Tax Advisors"
+}
