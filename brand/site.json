@@ -1,0 +1,48 @@
+{
+  "repo": "ae-tax-reviews",
+  "domain": "aetaxadvisorsreviews.com",
+  "label": "Advisory Due Diligence",
+  "eyebrow": "Choose your tax adviser thoughtfully",
+  "headline": "Know the firm. Understand the engagement.",
+  "intro": "Evaluate professional qualifications, service scope, implementation support, and review sources before choosing a tax advisory firm. This resource is owned by AE Tax Advisors and is not an independent rating service.",
+  "service": "/ae-tax-advisors-reviews/",
+  "role": "AE-owned engagement and provider due diligence",
+  "topics": [
+    [
+      "AE review sources",
+      "https://www.aetaxadvisors.com/ae-tax-advisors-reviews/",
+      "Review feedback with attribution and context."
+    ],
+    [
+      "Fees and scope",
+      "https://www.aetaxadvisors.com/pricing/",
+      "Review published fees and clarify the engagement you need."
+    ],
+    [
+      "Compare engagement questions",
+      "/library/",
+      "Use preparation guides to compare responsibilities and deliverables."
+    ]
+  ],
+  "prepare": [
+    "Your service needs and the returns or entities involved",
+    "Written proposals, fee schedules, and exclusions",
+    "Credential verification and original review sources",
+    "Implementation, audit-response, and ongoing-support questions"
+  ],
+  "steps": [
+    [
+      "Define the work",
+      "Separate advisory, filing, engineering, bookkeeping, and legal needs."
+    ],
+    [
+      "Compare written scope",
+      "Understand deliverables, fees, exclusions, and who implements recommendations."
+    ],
+    [
+      "Verify the evidence",
+      "Read original sources and confirm the professionals involved."
+    ]
+  ],
+  "generated": true
+}
