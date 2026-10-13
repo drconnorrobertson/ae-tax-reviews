@@ -13,7 +13,7 @@
       "permanent": true
     }
   ],
-  "buildCommand": "node topical-depth-build.cjs && node brand-build.cjs && node scripts/brand-check.mjs public",
+  "buildCommand": "node topical-depth-build.cjs && node brand-build.cjs && node scripts/brand-check.mjs public && node scripts/buyer-intent-release.cjs public",
   "outputDirectory": "public",
   "headers": [
     {
