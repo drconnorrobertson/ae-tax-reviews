@@ -1,0 +1,22 @@
+{
+  "title": "AE Tax Advisors Reviews, Fees & Engagement Scope",
+  "description": "Research AE Tax Advisors fees, engagement scope and published evidence. Use proposal comparisons and credential checks. This resource is published by AE Tax Advisors.",
+  "heading": "Evaluate the evidence and the engagement",
+  "intro": "This is an AE-published resource. Compare the written scope, verify credentials and consult original independent review sources.",
+  "links": [
+    {
+      "href": "/fees-and-scope/",
+      "label": "Understand fees and scope"
+    },
+    {
+      "href": "/choosing-a-firm/verifying-tax-professional-credentials/",
+      "label": "Verify professional credentials"
+    },
+    {
+      "href": "/case-studies/methodology/",
+      "label": "Understand the evidence and limitations"
+    }
+  ],
+  "buildCommand": "node topical-depth-build.cjs && node brand-build.cjs && node scripts/brand-check.mjs public && node scripts/buyer-intent-release.cjs public && node scripts/practical-homepage.cjs public && node scripts/brand-check.mjs public",
+  "outputDirectory": "public"
+}
