@@ -718,5 +718,750 @@
       "IRS_CREDENTIALS",
       "FTC_REVIEWS"
     ]
+  },
+  {
+    "slug": "complaint-versus-professional-finding",
+    "title": "Separate a complaint from a professional finding",
+    "description": "Read allegations, responses and official outcomes according to what each record actually establishes.",
+    "intro": "A public complaint, a business response and an official professional finding are different forms of information. Treating them as interchangeable can produce an unfair or unsupported conclusion. This guide does not investigate a real adviser or interpret a disciplinary order. It helps a prospective client identify the type, source and limits of a record before using it in a selection decision.",
+    "sections": [
+      [
+        "Identify the record type",
+        "Record whether you are reading a customer account, a complaint listing, a response or a document issued by an authority. Keep the original source address and date. A page title containing a strong label is not enough to establish that an authority made a finding. Locate the underlying document before describing what it concludes."
+      ],
+      [
+        "Keep allegations attributed",
+        "If a person reports an experience, describe it in your private research as a report by that source, not as a fact independently established by you. Avoid repeating unnecessary personal details. A detailed narrative may raise useful questions, but detail alone does not turn it into an official investigation or a verified professional conclusion."
+      ],
+      [
+        "Read official documents in context",
+        "When an authoritative record is available, review its identity, date, subject, status and stated outcome. Do not infer a broader conclusion than the document contains. If terminology or effect is unclear, seek qualified interpretation. This guide does not explain every authority's process or suggest that all public records use the same categories."
+      ],
+      [
+        "Check the actual professional identity",
+        "Match names and other appropriate identifiers before associating a record with the person proposed for your work. Similar names can refer to different people, and a firm name can include several professionals. Use official credential information where relevant, but do not publish private identifying details merely to strengthen an online assertion."
+      ],
+      [
+        "Use an evidence-level exercise",
+        "Create separate headings for reported experience, independently checked fact and unresolved question. Place each observation under the heading the source supports. If you cannot locate an official outcome, leave that gap explicit rather than assuming either that the allegation was proven or that the absence of a finding disproves it."
+      ],
+      [
+        "Connect the issue to your decision",
+        "Ask neutral questions about the current service, review process or qualifications that matter to your proposed engagement. You may choose to investigate further, but keep your decision under uncertainty distinct from an accusation. The goal is proportionate due diligence, not a public verdict produced from incomplete records."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Record type identified",
+      "Statements attributed accurately",
+      "Official outcome read directly",
+      "Professional identity matched",
+      "Unknowns left explicit"
+    ],
+    "sources": [
+      "IRS_CREDENTIALS",
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "professional-award-badge-evidence",
+    "title": "Evaluate an adviser award badge by its published criteria",
+    "description": "Check issuer, eligibility, selection process and date before treating an award as evidence.",
+    "intro": "Awards and badges can draw attention to a professional firm, but their meaning depends on who issued them and how recipients were selected. A badge is not automatically a license, a customer-review result or evidence of technical quality. This guide does not evaluate a particular award. It offers a method for reading the published criteria and identifying unanswered questions.",
+    "sections": [
+      [
+        "Find the issuing source",
+        "Follow the badge to the issuer's own explanation where available. Record the award name, category, year and recipient. A graphic copied into marketing material may omit those details. If the source cannot be located, record that limitation without assuming the award is false or that the issuer endorsed every service the firm offers."
+      ],
+      [
+        "Read eligibility and selection",
+        "Ask what population could qualify and what information the issuer used. Selection might involve applications, nominations, editorial judgment or another method. Do not assume a customer vote or professional examination unless the issuer says so. Keep the criteria separate from your own expectations about what a prestigious-sounding title should mean."
+      ],
+      [
+        "Identify commercial context",
+        "Look for disclosed sponsorship, entry fees, licensing arrangements or other relevant relationships. Their existence does not by itself establish an invalid award, but it can matter to interpretation. Avoid inventing an undisclosed payment. The FTC's endorsement guidance provides useful background on relationships; a reader still needs evidence about the particular issuer and badge."
+      ],
+      [
+        "Check the service and time match",
+        "An award for growth, workplace culture or a specific business category may not assess the tax work you need. A historical award may also concern a different team or period. Record exactly what was recognized and when. Do not convert a narrow accolade into a current guarantee covering every engagement."
+      ],
+      [
+        "Test what the badge can support",
+        "Write one sentence describing the issuer's stated recognition and another describing what it does not establish. This practical exercise helps separate a marketing signal from credentials and scope. If you cannot complete the first sentence using a source, treat the badge as a question for the firm rather than proof."
+      ],
+      [
+        "Perform the ordinary selection checks",
+        "Verify the proposed professional's relevant credentials, request a clear engagement scope and ask how work is reviewed. Those steps remain useful whether or not a badge is present. The award can be part of your context, but it should not replace evidence about the people, responsibilities and deliverables involved in your own case."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Issuer source located",
+      "Year and category recorded",
+      "Criteria and eligible population read",
+      "Commercial context checked without assumptions",
+      "Credentials and scope assessed separately"
+    ],
+    "sources": [
+      "FTC_RULE",
+      "IRS_CREDENTIALS"
+    ]
+  },
+  {
+    "slug": "directory-profile-and-license-status",
+    "title": "Distinguish a directory profile from a current professional credential",
+    "description": "Check what a listing verifies before using it in an adviser-selection decision.",
+    "intro": "A directory profile can help you find a professional, but it may collect contact details, self-descriptions, qualifications or other information through different processes. Being listed does not automatically answer whether a credential is current or whether the person will perform your engagement. This guide explains a verification workflow without judging any particular directory or individual.",
+    "sections": [
+      [
+        "Read the directory's purpose",
+        "Locate information about who can be listed and how profiles are created or updated. A business directory and an official credential resource serve different purposes. Keep the source name and access date in your notes. Do not infer that a profile was examined by a licensing authority simply because it includes professional letters or a verification-style icon."
+      ],
+      [
+        "Identify the named person and role",
+        "Record the professional name and the role the profile actually states. Ask the firm who would prepare, review or advise on your work. A page about a founding partner does not establish that partner's involvement in every engagement. Separate individual information from statements about the firm as a whole."
+      ],
+      [
+        "Use appropriate official checks",
+        "Consult the relevant official resources for the credential in question and confirm what the result means. The IRS provides information about preparer credentials and a directory with specified inclusion criteria. Do not treat a missing result in one resource as proof that a person lacks every qualification; different resources cover different populations."
+      ],
+      [
+        "Record timing and source limits",
+        "A directory may display information supplied earlier. Note any update date and verify material current facts directly. A screenshot kept in a proposal file can show what you saw, but it should not be reused indefinitely as evidence of current status. Ask for clarification if names, jurisdictions or roles do not align."
+      ],
+      [
+        "Make a two-source comparison",
+        "For a practical check, place the commercial profile and the relevant official result side by side in your private file. List matching identifiers and unresolved differences without copying unnecessary personal data. The goal is to know what each source establishes, not to label one universally trustworthy and the other universally useless."
+      ],
+      [
+        "Confirm the engagement separately",
+        "A current credential still does not define service scope, availability or the fee. Obtain those details from the firm and record the professional roles in the agreement. A directory is most useful as an entry point into a complete selection process rather than a substitute for that process."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Directory inclusion process checked",
+      "Individual and firm roles separated",
+      "Official credential resource consulted",
+      "Current date and limits recorded",
+      "Proposed engagement confirmed"
+    ],
+    "sources": [
+      "IRS_CREDENTIALS"
+    ]
+  },
+  {
+    "slug": "individual-professional-versus-firm-feedback",
+    "title": "Keep individual-professional feedback separate from firm-wide claims",
+    "description": "Identify who a source describes before applying it to an entire practice or proposed team.",
+    "intro": "A source may describe one staff member, a partner, an office or an entire firm. Those are not necessarily the same unit of analysis. A prospective client should identify the level actually supported before transferring a reported experience to the proposed engagement team. This guide does not assess any real professional's performance or publish customer feedback.",
+    "sections": [
+      [
+        "Identify the subject precisely",
+        "Record whether the source names an individual, a team, a location or only the business. Preserve uncertainty when the wording is vague. Do not add a person's identity based on an assumption about who normally performs a service. A firm-level profile can contain comments about different professionals and different periods."
+      ],
+      [
+        "Separate personal interaction and process",
+        "A helpful or difficult interaction may concern communication with one person, while a broader process involves several roles. Keep those observations distinct. Do not assume that a reported courtesy proves the technical review was sound or that a single interaction establishes a permanent firm-wide practice. Each conclusion needs the appropriate evidence."
+      ],
+      [
+        "Ask who would handle your work",
+        "Have the candidate identify preparation, review, advisory and administrative responsibilities under the proposal. Confirm relevant qualifications for the professionals involved. A familiar name on a website may not be the person assigned to your case, and a team description should not conceal important uncertainties about supervision or availability."
+      ],
+      [
+        "Use a role-mapping exercise",
+        "Draw a simple map of the roles described in the source and the roles proposed for your engagement. Mark confirmed overlaps and unknowns. The exercise can reveal that feedback remains useful for one question but not another. It should not become an unsupported rating of employees whom the source never mentioned."
+      ],
+      [
+        "Review continuity questions",
+        "Ask how the firm manages reassignment, absences and handoffs. A documented team process may matter more to you than access to one visible professional. Keep the answer as current prospective evidence, not as proof that every historical customer received the same service or that an older experience has been disproved."
+      ],
+      [
+        "Keep your summary proportionate",
+        "State which person or process the source describes and why it is relevant to your needs. Apply the same standard to favorable and unfavorable material. This avoids expanding a narrow reported experience into a broad claim that the available evidence cannot support."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Subject and organizational level identified",
+      "Interaction and process separated",
+      "Proposed roles confirmed",
+      "Overlaps and unknowns mapped",
+      "Continuity process reviewed"
+    ],
+    "sources": [
+      "IRS_CREDENTIALS",
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "review-invitation-service-stage",
+    "title": "Consider when feedback was requested in the service lifecycle",
+    "description": "Distinguish feedback after an introduction from feedback after completed professional work.",
+    "intro": "Feedback collected at different points in an engagement can answer different questions. A person may comment after an introductory call, onboarding, an analysis delivery or later follow-up. Before using the material to evaluate completed work, identify the stage the source actually describes. This guide does not investigate a firm's solicitation practices or assert that feedback collected early is false.",
+    "sections": [
+      [
+        "Look for the stated stage",
+        "Record any reference to a consultation, sign-up, document request, report, filing or later support. Do not infer completion merely because the source uses the word service. If the stage is not clear, mark it unknown. That simple distinction can prevent an introductory experience from being mistaken for a review of the full engagement."
+      ],
+      [
+        "Check available collection information",
+        "A platform or publisher may explain how and when it requests feedback. Read the actual disclosure and preserve its date. Do not invent a solicitation trigger from a cluster of review dates. Even when a collection process is described, the specific writer may have had a different history that is not publicly visible."
+      ],
+      [
+        "Match conclusions to the stage",
+        "An onboarding account may inform questions about instructions or responsiveness, but it may say little about implementation or later support. Conversely, a later-stage account may omit how the initial process worked. Keep the useful information without extending it beyond what the source supports. No single stage necessarily measures the entire client relationship."
+      ],
+      [
+        "Build a lifecycle view",
+        "For a research exercise, list the stages important to your intended service and mark where you have evidence or unanswered questions. Do not fill the empty stages with assumptions drawn from the best-known anecdote. The result should be an interview agenda and a request for clear responsibilities, not a fictional history of the engagement."
+      ],
+      [
+        "Ask how completion is documented",
+        "Have the firm explain the expected deliverables and how a client knows each stage is complete. Distinguish sending a document from implementing a recommendation or filing a return. These current scope questions can be answered without revealing another client's information or defending a public account."
+      ],
+      [
+        "Use feedback as one input",
+        "Early feedback can still be useful if its timing is clear. The issue is accurate interpretation, not a blanket rule to ignore it. Combine the stage-specific observation with qualification checks, the proposed scope and your own documented questions before choosing a provider."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Service stage identified",
+      "Collection timing checked where disclosed",
+      "Claims limited to the described stage",
+      "Unanswered lifecycle questions listed",
+      "Completion evidence requested"
+    ],
+    "sources": [
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "introductory-call-feedback-limits",
+    "title": "Evaluate introductory-call feedback without assuming engagement results",
+    "description": "Separate the quality of a first conversation from work that has not yet been performed.",
+    "intro": "An introductory conversation can reveal whether a firm listens, explains scope and answers questions. It cannot by itself establish the outcome of future advice or the quality of a return that has not been prepared. This guide helps readers use first-contact information fairly without dismissing it or turning it into proof of a completed engagement.",
+    "sections": [
+      [
+        "Identify what the interaction covered",
+        "Look for the actual topics discussed: fit, general information, fees, document needs or a proposed next step. A warm conversation and a technical analysis are different events. Do not assume that detailed individual advice was provided simply because a source describes the call positively or says it was informative."
+      ],
+      [
+        "Separate communication from conclusions",
+        "You can use a source to formulate questions about clarity or responsiveness while leaving technical quality unassessed. A professional may explain a process well before receiving the facts needed for an analysis. Keep that boundary visible. It protects against both overstating the value of a call and unfairly criticizing it for not delivering work outside its purpose."
+      ],
+      [
+        "Compare with the proposed scope",
+        "Ask what the introductory meeting includes and what requires a separate engagement. Record whether the next step is document collection, a proposal or substantive review. The firm's current explanation should be clear enough for you to know what you are buying, but it does not authenticate another person's account of their own conversation."
+      ],
+      [
+        "Use your own question checklist",
+        "Before a call, list the service you need, the main decision ahead and questions about responsibilities and fees. Afterward, record which questions were answered and which remain open. Do not treat feeling reassured as a substitute for resolving a material scope gap, and do not infer a future result from general discussion."
+      ],
+      [
+        "Check who participates later",
+        "The person handling an introduction may differ from the professional assigned to review or prepare the work. Ask about those roles and verify relevant credentials. A good first-contact experience can be valuable while still leaving staffing, supervision and continuing communication to be confirmed in the actual engagement."
+      ],
+      [
+        "Make a measured next-step decision",
+        "Use the call to decide whether further due diligence is worthwhile, not whether every possible service outcome is already proven. Preserve the distinction between your experience, third-party reports and written commitments. This creates a stronger basis for selection than relying on an introductory impression alone."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Call purpose understood",
+      "Communication and technical work separated",
+      "Next stage and scope identified",
+      "Material questions documented",
+      "Later professional roles confirmed"
+    ],
+    "sources": [
+      "IRS_CREDENTIALS",
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "review-moderation-policy-reading",
+    "title": "Read a review platform's moderation policy before interpreting its collection",
+    "description": "Understand stated inclusion rules without assuming you can observe every moderation decision.",
+    "intro": "Platforms and publishers may use different rules to collect, screen and display feedback. A reader who understands the stated process can better describe what a visible collection represents. This guide is not an audit of a platform and does not allege that any particular review was improperly removed. It explains how to read policies and preserve their limits.",
+    "sections": [
+      [
+        "Locate the current policy",
+        "Find the platform's own explanation of collection, moderation and publication. Record the version or access date. A help page may describe general practice without disclosing every operational detail. Do not rely solely on a third-party summary if the original policy is available, and do not assume the policy stayed unchanged over time."
+      ],
+      [
+        "Separate stated rules from observed actions",
+        "A policy can explain what the platform says it does; it does not prove how every individual case was handled. Keep observations about a particular item separate from policy wording. If an item is unavailable, several explanations may be possible. Avoid choosing one solely because it matches your prior opinion of the firm or platform."
+      ],
+      [
+        "Understand the eligible population",
+        "Look for rules about who can submit, what experiences qualify and what information may be excluded. A collection limited to a defined population should not be treated as every possible client's opinion. That limit does not automatically make the collection useless, but it should be visible in your interpretation."
+      ],
+      [
+        "Review disclosure and context",
+        "FTC guidance discusses transparency in collection and display of online reviews. Use it as background while recognizing that legal conclusions depend on facts. A reader can note missing explanations without declaring a violation. Preserve the actual disclosure and the practical question it leaves unanswered for your research."
+      ],
+      [
+        "Test a narrow conclusion",
+        "Write a sentence describing the collection using only what the policy establishes. Then identify what would require additional evidence, such as the reason for a specific removal or the completeness of historical records. This exercise discourages sweeping claims about a visible set of feedback when the underlying process is only partly known."
+      ],
+      [
+        "Apply the same standard across platforms",
+        "Do not demand exhaustive disclosure from a source you dislike while accepting a favorable source without checking its rules. Compare the relevant limitations consistently. Use the results to guide further questions and combine them with credentials, service scope and direct engagement information."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Current original policy saved",
+      "Policy and observed event separated",
+      "Eligible population understood",
+      "Limits described without legal conclusions",
+      "Consistent standard across sources"
+    ],
+    "sources": [
+      "FTC_RULE",
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "unavailable-review-source",
+    "title": "Handle an unavailable review source without guessing why it disappeared",
+    "description": "Preserve what you know about a missing page and keep removal theories separate from evidence.",
+    "intro": "A source may become unavailable because of deletion, a changed address, account status, platform policy or another reason. A public reader may not know which explanation applies. This guide helps you preserve the evidence you actually have without treating a missing page as proof of suppression, falsity or resolution. It does not investigate any real removal event.",
+    "sections": [
+      [
+        "Record the original reference",
+        "Keep the address, access date and context in which you encountered the source. Distinguish your own direct reading from a link or screenshot supplied by someone else. A saved excerpt may be useful but may not preserve the complete page. State that limit rather than describing it as a full record of the original item."
+      ],
+      [
+        "Check ordinary navigation explanations",
+        "Look for an updated page, changed profile or platform notice through normal available links. Do not bypass access controls or assume an unavailable account is public. If you locate a moved item, retain both references and explain the connection. A failed link alone does not identify who changed it or why."
+      ],
+      [
+        "Avoid a causal leap",
+        "Separate the observation that a page is unavailable from theories about its cause. A firm's response, a later rating or a platform change may occur around the same time without proving a connection. Keep unsupported possibilities out of a factual summary, even if one seems plausible or emotionally persuasive."
+      ],
+      [
+        "Use a source-status exercise",
+        "Mark the source as currently accessible, accessible only in a limited saved form or unavailable. Describe what information each status permits you to assess. The exercise is about the quality of your evidence, not a judgment about the writer. Do not reconstruct missing text from memory and present it as an exact record."
+      ],
+      [
+        "Revisit the relevant current question",
+        "If the source raised a concern about your prospective engagement, ask the firm a neutral process question. You do not need to resolve a historical removal mystery to request clear scope, communication or fee terms. Record the current answer separately rather than using it to explain the missing page retrospectively."
+      ],
+      [
+        "Keep the decision proportionate",
+        "You can acknowledge an evidence gap and decide whether to seek more information. Avoid counting an unavailable item as a verified positive or negative experience in a summary. The appropriate result may be an open question, and that is more accurate than a confident narrative unsupported by the sources."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Original reference and access status",
+      "Normal moved-page checks",
+      "Cause left unknown without evidence",
+      "Saved excerpt limits documented",
+      "Current engagement question separated"
+    ],
+    "sources": [
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "selected-case-study-evidence",
+    "title": "Read a selected case study without assuming it describes typical results",
+    "description": "Check selection, inputs and stated limitations before applying an example to your circumstances.",
+    "intro": "A case study can illustrate a process or a situation, but selection matters. The reader may not know how many other engagements differed, which facts were omitted or whether the example is hypothetical. This guide does not assess a named case study or verify tax results. It helps distinguish an educational example from evidence about what a prospective client should expect.",
+    "sections": [
+      [
+        "Identify the stated type of example",
+        "Look for a clear description of whether the material is a real account, an anonymized illustration or a fictional scenario. Do not assume that detailed numbers make it a completed client engagement. Preserve the publisher's disclosure and ask for clarification if the distinction is unclear. This AE-owned site uses explicit limits on its educational material."
+      ],
+      [
+        "Review the selection context",
+        "Ask what the example was chosen to demonstrate and whether the publisher explains its limits. A selected example may highlight a particular service or issue without representing the full range of outcomes. Avoid turning one case into a success rate or a claim that the same approach applies to all owners with a similar headline description."
+      ],
+      [
+        "List the material assumptions",
+        "Identify the entity, period, baseline, records and implementation conditions actually stated. Leave omitted facts unknown. A useful analysis may depend on details not visible in a short summary, so resist filling them with assumptions from your own situation. The similarity of an industry label alone does not establish comparability."
+      ],
+      [
+        "Separate process and result evidence",
+        "A case may explain document collection or professional coordination more clearly than it establishes a measured outcome. Record which question it helps answer. A reported result requires its own definition and support; it should not be treated as verified merely because the process narrative is plausible or well presented."
+      ],
+      [
+        "Use a transferability exercise",
+        "Write down what additional facts a qualified adviser would need before considering a similar idea for you. This converts the case into a preparation task rather than a forecast. Do not copy an illustrated result into your cash plan or assume it creates eligibility for a strategy without the appropriate professional review."
+      ],
+      [
+        "Keep the selection decision grounded",
+        "Use the case study alongside current credentials, scope and direct questions about your engagement. It can demonstrate how a publisher communicates an issue while leaving important outcome questions unanswered. Record that distinction rather than labeling the example either conclusive proof or worthless marketing."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Example type and publisher disclosed",
+      "Selection purpose and limits read",
+      "Assumptions identified",
+      "Process and outcome support separated",
+      "Own facts left for qualified analysis"
+    ],
+    "sources": [
+      "FTC_RULE",
+      "IRS_CREDENTIALS"
+    ]
+  },
+  {
+    "slug": "best-adviser-list-methodology",
+    "title": "Check a best-adviser list's method before using its order",
+    "description": "Look for population, criteria, relationships and dates behind a published recommendation list.",
+    "intro": "A list labeled best or top can be based on editorial judgment, applications, commercial relationships or another method. The order alone does not tell you how the candidates were evaluated or whether the list fits your needs. This guide does not create a ranking or assess a particular list. It shows how to inspect the published method before relying on it.",
+    "sections": [
+      [
+        "Identify the publisher and purpose",
+        "Record who controls the list and what audience it serves. Look for ownership, sponsorship or other relevant disclosures. A list produced by a service provider differs from an official credential resource, even if both contain professional names. Neither should be assigned a purpose that its publisher does not claim."
+      ],
+      [
+        "Find the candidate population",
+        "Ask how candidates entered the list and which firms were eligible. A geographically limited list, application-based award or selected directory does not necessarily cover all available advisers. Do not infer that an omitted firm was evaluated and rejected. The publisher may have considered only a defined subset."
+      ],
+      [
+        "Read the criteria and evidence",
+        "Look for the factors used, the source of information and how the ordering was produced. A method may emphasize availability, size, reviews or editorial preference rather than the technical work you need. If weights or supporting evidence are absent, record that limitation instead of inventing a rigorous scoring process behind the presentation."
+      ],
+      [
+        "Check commercial and timing context",
+        "Review disclosures about fees, referrals, advertising and update dates where available. Their presence does not automatically invalidate every recommendation, but it may affect interpretation. Avoid asserting an undisclosed payment without evidence. Use FTC guidance as background and keep legal conclusions separate from your own source review."
+      ],
+      [
+        "Compare the list with your own brief",
+        "Write your required service, entities, deadlines and support needs before following the order. A candidate prominent on a general list may not fit that scope. Use the list to identify possible firms, then verify qualifications and obtain direct engagement information instead of treating position as an award of suitability."
+      ],
+      [
+        "Document the limited use you made of it",
+        "State whether the list helped discovery, supplied a contact or answered a specific question. Do not report its ordering as your own independent evaluation. This keeps a useful starting point from becoming an unsupported claim about which firm delivers the best results."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Publisher and audience identified",
+      "Eligible population understood",
+      "Criteria and evidence located",
+      "Commercial and date context checked",
+      "Own service brief used for selection"
+    ],
+    "sources": [
+      "FTC_RULE",
+      "IRS_CREDENTIALS"
+    ]
+  },
+  {
+    "slug": "credential-evidence-refresh",
+    "title": "Refresh credential evidence before relying on an old screenshot",
+    "description": "Distinguish a historical check from current information about the professional proposed for your work.",
+    "intro": "A credential screenshot records information seen at a particular time. It should not automatically be treated as a current status check years later or applied to a different person with a similar name. This guide explains how to maintain a dated evidence record. It does not interpret any individual's status or declare which credential is required for every type of service.",
+    "sections": [
+      [
+        "Identify the person and credential",
+        "Record the name and relevant identifying details needed to distinguish the professional, without collecting unnecessary personal information. Note the credential and issuing source shown. A firm logo or team biography may refer to several people, so confirm who is proposed to perform and review your particular engagement."
+      ],
+      [
+        "Use the appropriate current source",
+        "Consult the relevant official resource and read what it covers. The IRS explains differences among preparer credentials and provides a directory with stated inclusion criteria. Other professional credentials may require another authoritative source. Do not assume one directory covers all professionals or that an absent result automatically answers every qualification question."
+      ],
+      [
+        "Preserve the check date and limits",
+        "Save the source reference, date and the specific information observed. Keep the result distinct from the professional's marketing description. A record may show current status without describing experience in your industry, availability or the scope a firm is willing to accept. Those are separate questions requiring their own evidence."
+      ],
+      [
+        "Handle differences carefully",
+        "If an old screenshot and current source differ, identify the dates and ask for clarification through an appropriate channel. Do not infer a cause, disciplinary event or misrepresentation solely from the mismatch. Names, jurisdictions and record formats can create confusion. Leave unresolved differences labeled until the authoritative information is understood."
+      ],
+      [
+        "Connect the check to the agreement",
+        "Confirm the person's role in the proposed work and how reassignment would be handled. A current credential check of a prominent partner does not establish who will perform every task. Keep the engagement responsibilities and the credential evidence together so the relevance of the check remains clear."
+      ],
+      [
+        "Refresh when circumstances change",
+        "Revisit material evidence when the professional, service or timing changes, using a proportionate process for your situation. Do not treat a fixed interval in this guide as a legal requirement. The practical aim is to avoid relying indefinitely on a historical image whose date and relevance have been forgotten."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Professional and credential identified",
+      "Current official source consulted",
+      "Date and source limits retained",
+      "Differences clarified without assumptions",
+      "Proposed role connected to the check"
+    ],
+    "sources": [
+      "IRS_CREDENTIALS"
+    ]
+  },
+  {
+    "slug": "publisher-funding-and-review-context",
+    "title": "Read publisher funding disclosures alongside adviser commentary",
+    "description": "Understand who controls a resource without assuming ownership answers every evidence question.",
+    "intro": "A publisher's relationship to a service provider can affect how readers interpret its commentary. Ownership, sponsorship and referral arrangements are not the same thing, and a disclosure should be read according to what it says. This guide explains a source-context check. AE Tax Advisors owns this site; its educational commentary is not presented as an independent rating service.",
+    "sections": [
+      [
+        "Identify who controls the resource",
+        "Look for the publisher, owner and responsible organization in clear source information. Do not infer independence from a separate domain or a neutral-sounding title. Equally, do not invent a commercial relationship solely because a site links to a provider. Record the disclosure and what remains unknown."
+      ],
+      [
+        "Separate different relationships",
+        "Ownership, paid advertising, sponsorship and referral arrangements can involve different forms of influence. Describe only the relationship supported by the source. A page that identifies its owner may still leave questions about other arrangements. Ask those questions without converting uncertainty into an allegation about the publisher or firm."
+      ],
+      [
+        "Read the content's stated purpose",
+        "An owned educational resource can explain service scope or help readers prepare questions while not providing independent comparisons. A directory can help discovery without verifying every provider. Match the claim to the purpose stated. Do not treat disclosure as a guarantee of accuracy or as a reason to ignore all information automatically."
+      ],
+      [
+        "Check evidence at the claim level",
+        "Follow original sources for important factual statements, especially credentials, prices or reported results. The publisher relationship supplies context but does not independently prove or disprove each claim. A transparent method combines ownership awareness with direct verification rather than replacing one with the other."
+      ],
+      [
+        "Use a disclosure note in your research",
+        "Record the relationship, access date and the role you allowed the resource to play in your decision. For example, it may help you identify questions while you verify material facts elsewhere. This is a more precise approach than relabeling the resource as either fully independent or entirely unusable."
+      ],
+      [
+        "Keep your own summary accurate",
+        "If you share what you learned, preserve the ownership context and avoid presenting the publisher's view as an independent endorsement. FTC guidance offers relevant background, but this reading method is not a legal opinion about disclosure compliance. Its purpose is to make the evidence trail clearer."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Ownership source located",
+      "Relationship types distinguished",
+      "Stated purpose understood",
+      "Material claims checked directly",
+      "Ownership context retained when sharing"
+    ],
+    "sources": [
+      "FTC_RULE"
+    ]
+  },
+  {
+    "slug": "translated-review-context",
+    "title": "Read translated feedback with attention to the original language",
+    "description": "Keep translation choices and source limits visible before relying on a translated account.",
+    "intro": "A translated review can help a reader access information in another language, but wording and context may change in translation. The reader should know whether the translation came from the platform, an automated tool or a named professional process. This guide does not translate or authenticate any customer account. It explains how to preserve uncertainty rather than treating every translated phrase as an exact original quotation.",
+    "sections": [
+      [
+        "Locate the original source",
+        "Keep the original page address and note the language displayed by the source. Identify whether you can view the original wording or only a translation supplied elsewhere. A screenshot may omit the translation label or surrounding context. Record what was actually available before using the material in a comparison."
+      ],
+      [
+        "Identify the translation process",
+        "Look for the platform or tool's stated role and any visible disclaimer. Do not assume a human translator reviewed an automatically displayed version. If the process is unknown, say so. A fluent sentence does not establish that technical terms, tone or service descriptions were preserved accurately."
+      ],
+      [
+        "Avoid overinterpreting specialized wording",
+        "Professional-service terminology can depend on context. A phrase may refer to a consultation, preparation or a general interaction without making the distinction you expect. Do not infer a precise legal or tax claim from an uncertain translation. Seek qualified language assistance if the distinction is material to your decision."
+      ],
+      [
+        "Keep quotations and summaries distinct",
+        "In your research notes, label a translated summary rather than presenting it as the writer's exact words. Preserve the source reference so another reader can evaluate the limitation. Do not create a stronger accusation or endorsement by choosing a dramatic English phrase where the original meaning is unclear."
+      ],
+      [
+        "Test the effect on your decision",
+        "Ask whether the translated detail is essential or merely a prompt for a neutral question. A concern about communication can lead you to ask the firm how it handles updates in the language you need. That prospective question does not require resolving every ambiguity in another person's translated account."
+      ],
+      [
+        "Use multiple evidence types",
+        "Combine the source with credentials, written scope and direct answers. If the translation cannot support a particular conclusion, leave that conclusion open rather than discarding the entire source or treating it as definitive. Accurate limits make the review more useful and reduce the risk of repeating something the writer did not mean."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Original language and page recorded",
+      "Translation process identified or unknown",
+      "Technical wording treated cautiously",
+      "Translated summary labeled",
+      "Material questions verified separately"
+    ],
+    "sources": [
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "ai-review-summary-source-check",
+    "title": "Check an AI-generated review summary against the underlying sources",
+    "description": "Separate a convenient summary from evidence you can actually trace and evaluate.",
+    "intro": "An automated summary may be useful for locating themes, but it is not the underlying customer feedback or an independent verification of the claims it describes. Before using it to choose a professional, identify the sources and check the important details. This guide does not evaluate a particular AI system or promise that any method detects every error.",
+    "sections": [
+      [
+        "Identify the summary's role",
+        "Record where the summary appears and whether the publisher explains how it was produced. Do not assume it reviewed every available source or used a current data set. A concise answer can omit dates, service types or uncertainty that matter to your decision. Keep it separate from the original material in your research file."
+      ],
+      [
+        "Trace material statements",
+        "For a statement that affects your choice, follow the cited source where available and read the relevant context. If no source is provided, mark the statement unverified. Do not turn the summary's confident wording into your own factual assertion. A source link is a starting point for checking, not proof that the summary accurately represents it."
+      ],
+      [
+        "Check the population and duplication",
+        "Ask what sources were included, whether repeated material may be counted more than once and whether different services were combined. The summary may not reveal those details. Preserve the limitation rather than inferring a measured consensus. A theme repeated in a generated paragraph does not establish how many independent people expressed it."
+      ],
+      [
+        "Use a claim-by-claim exercise",
+        "Create a short table with the summary statement, original reference and what the source actually supports. Mark any mismatch or missing context. This exercise is more useful than assigning the whole summary a single trust label because one accurate point does not validate every other point."
+      ],
+      [
+        "Protect private information",
+        "Do not upload another person's private tax documents or confidential engagement material merely to test a public summary. Use authorized public information and the firm's appropriate process for your own records. Questions about a provider can usually be framed without exposing sensitive customer data."
+      ],
+      [
+        "Return to the engagement decision",
+        "Use verified themes to prepare direct questions about scope, people and responsibilities. Keep unknowns explicit and record the firm's current answers separately. The automated summary can remain a navigation aid, but your conclusion should depend on evidence you can explain rather than the apparent authority of a generated response."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Summary separated from original sources",
+      "Material statements traced",
+      "Population and duplication limits noted",
+      "Claim-by-claim check recorded",
+      "Private information kept out of unnecessary tools"
+    ],
+    "sources": [
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "testimonial-excerpt-boundaries",
+    "title": "Read a testimonial excerpt without losing its qualifications",
+    "description": "Check what was selected, omitted or summarized before relying on promotional feedback.",
+    "intro": "A short testimonial excerpt can be easier to read than a full account, but selection can remove qualifications or the service context. A prospective client should look for the original source and understand the excerpt's boundaries. This guide does not reproduce customer testimonials or accuse a publisher of misleading editing. It offers a method for keeping an excerpt from carrying more meaning than the evidence supports.",
+    "sections": [
+      [
+        "Identify the form of the excerpt",
+        "Notice whether the material is a direct quotation, paraphrase, headline or summary. These forms should not be treated as interchangeable. Record the publisher and access date. A sentence displayed in quotation marks may invite a different expectation from a publisher's own summary, but the reader still needs the source and context."
+      ],
+      [
+        "Locate the complete account if available",
+        "Follow attribution and source links to read the surrounding material. Compare the service, period and qualifications. If the full account is unavailable, say so in your notes. Do not reconstruct omitted sentences from memory or assume that a shortened version preserves every limitation important to your decision."
+      ],
+      [
+        "Check whether the meaning changed",
+        "Look for conditions, uncertainty or a narrow service reference that the excerpt no longer makes visible. Avoid judging the editing process from length alone; a concise selection can preserve meaning or omit something material. Record the specific difference you can observe instead of making a broad accusation about intent."
+      ],
+      [
+        "Keep reported results in context",
+        "If the excerpt refers to an outcome, identify what measure, baseline and period are actually described. Do not extend a narrow reported result into a guarantee for your circumstances. A promotional selection may be one example among many, and the reader may not know the population from which it was chosen."
+      ],
+      [
+        "Use a context-restoration exercise",
+        "Write a short note identifying the missing context you would need before relying on the excerpt. This could be the service performed, whether work was completed or what limitation the writer stated. The exercise should produce a verification question rather than a new promotional quotation or a rewritten customer account."
+      ],
+      [
+        "Choose evidence proportionately",
+        "Use the excerpt as a prompt while checking qualifications, scope and current terms directly. If you share your research, keep the source and limitations visible. FTC guidance supplies background for review and testimonial practices, but this guide does not decide whether a particular use complies with the law."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Quotation and summary distinguished",
+      "Original account sought",
+      "Observed omissions documented",
+      "Outcome limits preserved",
+      "Verification question prepared"
+    ],
+    "sources": [
+      "FTC_RULE",
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "video-testimonial-context",
+    "title": "Evaluate video testimonial context beyond presentation quality",
+    "description": "Identify the speaker's stated role, service stage and publisher context before drawing conclusions.",
+    "intro": "A polished video can feel more persuasive than text, but presentation quality is not independent verification of an experience or result. A reader should identify who the speaker is said to be, what service is described and how the publisher presents the material. This guide does not authenticate a speaker or assess a real video testimonial.",
+    "sections": [
+      [
+        "Record attribution and publisher context",
+        "Note the stated speaker role, publisher, date and any relevant relationship disclosure. Do not infer identity, credentials or client status from appearance alone. A caption can provide information but may still need corroboration when it is material to your decision. Keep the original video address rather than relying on a clipped repost."
+      ],
+      [
+        "Identify the service stage described",
+        "Listen for whether the account concerns an introductory call, onboarding, completed analysis, implementation or later support. Leave the stage unknown if it is not clear. A video about a first conversation cannot establish how a later engagement was delivered, even if the overall tone suggests broad satisfaction."
+      ],
+      [
+        "Separate production choices from evidence",
+        "Editing, music, captions and visual polish can shape the impression without adding factual support. That does not automatically make the video misleading, but it should not be treated as proof of technical quality. Focus on the specific statements and their limits rather than assigning reliability from confidence, emotion or production budget."
+      ],
+      [
+        "Check outcome statements carefully",
+        "If the speaker describes a result, note the stated measure, period and assumptions without converting them into your own forecast. A public viewer may not have access to the records needed to verify the account. Keep reported experience separate from independently checked fact and from the service terms offered to you."
+      ],
+      [
+        "Use a transcript-based research note",
+        "Summarize the issue that matters to your decision and link to the relevant portion where possible. Do not create an exact quotation unless you have checked it, and do not publish another person's private details unnecessarily. The note should identify questions for the firm, not create a new testimonial from selected fragments."
+      ],
+      [
+        "Verify the proposed engagement separately",
+        "Ask who would work on your matter, what credentials are relevant and which deliverables are included. Obtain those answers in the appropriate written scope. Video feedback can remain one contextual input while your selection depends on evidence about the service you would actually receive."
+      ],
+      [
+        "Preserve the decision boundary",
+        "Record which part of this source you used, what it supported and what remained uncertain. That distinction helps you revisit the decision if new information appears. Do not let a convenient summary or a persuasive presentation erase the limits of the underlying evidence. A careful note can be useful even when it ends with an unanswered question."
+      ]
+    ],
+    "checklist": [
+      "Speaker attribution and relationships recorded",
+      "Service stage identified",
+      "Presentation separated from evidence",
+      "Outcome claims left appropriately qualified",
+      "Own engagement verified independently"
+    ],
+    "sources": [
+      "FTC_RULE",
+      "IRS_CREDENTIALS"
+    ]
   }
 ]
