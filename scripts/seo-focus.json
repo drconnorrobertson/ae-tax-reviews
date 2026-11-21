@@ -17,6 +17,6 @@
       "label": "Understand the evidence and limitations"
     }
   ],
-  "buildCommand": "node topical-depth-build.cjs && node brand-build.cjs && node scripts/brand-check.mjs public && node scripts/buyer-intent-release.cjs public && node scripts/practical-homepage.cjs public && node scripts/brand-check.mjs public",
+  "buildCommand": "node topical-depth-build.cjs && node brand-build.cjs && node scripts/brand-check.mjs public && node scripts/buyer-intent-release.cjs public && node scripts/practical-homepage.cjs public && node scripts/brand-check.mjs public && node review-literacy-build.cjs && node scripts/brand-check.mjs public && node scripts/check-review-literacy.cjs",
   "outputDirectory": "public"
 }
