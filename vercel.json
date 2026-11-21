@@ -3,6 +3,16 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/categories/str-owners/",
+      "destination": "/case-studies/short-term-rental/",
+      "permanent": true
+    },
+    {
+      "source": "/categories/str-owners",
+      "destination": "/case-studies/short-term-rental/",
+      "permanent": true
+    },
+    {
       "source": "/blog/:path*",
       "destination": "/guides/",
       "permanent": true
