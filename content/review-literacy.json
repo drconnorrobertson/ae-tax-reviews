@@ -1,0 +1,722 @@
+[
+  {
+    "slug": "review-source-provenance-file",
+    "title": "Trace a tax-adviser review back to its original source",
+    "description": "Build a source record before relying on a review screenshot, quotation or repost.",
+    "intro": "A review excerpt can travel through search results, screenshots, sales material and comparison pages. Its meaning is easier to assess when the reader can find the original source and surrounding context. A provenance file is a small research record, not a verdict about the reviewer or firm. This AE-owned guide does not publish or authenticate customer reviews.",
+    "sections": [
+      [
+        "Record what you actually found",
+        "Save the original page address, platform name and date you accessed it. Note whether you saw a full review, an excerpt or a screenshot supplied by someone else. Do not treat a cropped image as equivalent to the original page. A clear source record lets you revisit the material and identify which context was available when you considered it."
+      ],
+      [
+        "Follow the attribution without filling gaps",
+        "Use an available link or platform reference to locate the original material. Compare the wording, date and business identity. If the original cannot be found, record that limitation rather than inventing a missing URL or assuming the excerpt is false. An unavailable source can have several explanations, and the research file should distinguish uncertainty from evidence of deception."
+      ],
+      [
+        "Read the surrounding context",
+        "Look for the service discussed, any response, updates and visible platform labels. A quotation about one interaction may not describe a completed engagement. Keep the review's factual scope narrow. Do not infer tax outcomes, professional qualifications or the terms of another client's agreement from a general comment about a meeting or communication experience."
+      ],
+      [
+        "Test the file with a second reader",
+        "For a practical exercise, give a colleague only your source record and ask them to find the same item. Can they identify the firm, original location and the part you relied on? If not, improve the reference. This tests the usability of your research without copying large amounts of somebody else's review or exposing unnecessary personal information."
+      ],
+      [
+        "Turn the limitation into a question",
+        "Ask the firm a neutral question about its current process, such as how engagement progress is communicated, rather than asking it to reveal another person's confidential matter. Preserve the answer separately from the original source. The purpose is to make your own selection decision better informed, not to transform an unverifiable excerpt into a confirmed account."
+      ],
+      [
+        "Keep the conclusion proportionate",
+        "Use the source record alongside qualifications, written scope and your own questions. Finding an original page does not independently prove every statement on it. Conversely, a missing page does not establish wrongdoing. Mark what is confirmed, what remains reported experience and what you could not check, then decide whether the uncertainty matters to your proposed engagement."
+      ]
+    ],
+    "checklist": [
+      "Original address and access date",
+      "Full item versus excerpt identified",
+      "Business and service context checked",
+      "Updates and responses noted",
+      "Uncertainty and follow-up question separated"
+    ],
+    "sources": [
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "duplicate-review-syndication",
+    "title": "Recognize syndicated feedback without counting it twice",
+    "description": "Distinguish one experience repeated across sites from separate independent feedback.",
+    "intro": "The same piece of feedback may appear on a firm's website, a review platform, a search result and a marketing page. Repetition can make one account feel like several. A careful reader checks whether the sources are independent before summarizing a pattern. This guide explains a research method; it does not label any real firm's material as copied or misleading.",
+    "sections": [
+      [
+        "Compare the identifying details",
+        "Look for matching wording, dates, attribution and service descriptions. Similar themes alone do not prove two items come from one person. Record a possible match and the evidence supporting it. If a platform says content is syndicated or supplied by another service, preserve that disclosure so you understand the route by which the feedback reached the page."
+      ],
+      [
+        "Separate publication count from experience count",
+        "Use different columns for places where material appears and the underlying experiences you can distinguish. Avoid presenting a list of pages as a count of independent customers. Where identity or source linkage is uncertain, leave the number unresolved. A more cautious summary is more useful than a precise-looking total built from assumptions."
+      ],
+      [
+        "Follow the earliest available source",
+        "Check linked source pages and publication information without assuming the earliest date you find is necessarily the original. A page may show an update date or import date. Record the evidence rather than constructing a chronology from page order in search results. Search visibility does not establish which publisher first collected the feedback."
+      ],
+      [
+        "Use a no-quotation comparison exercise",
+        "Imagine finding the same attributed passage in a platform profile and a firm's brochure. Your working file can link both locations and mark them as a likely shared source without reproducing the passage. The useful result is knowing that two locations may represent one experience, not publishing a new version of the material yourself."
+      ],
+      [
+        "Reassess the apparent pattern",
+        "After identifying repeats, review which themes still appear across distinct sources. Keep the scope of each observation limited to the service and period described. Do not infer overall technical quality from the number of repetitions. A repeated anecdote may help formulate a question, but it does not become stronger evidence merely because it is widely displayed."
+      ],
+      [
+        "Apply the same method consistently",
+        "Check repeated favorable and unfavorable material using the same approach. Selective deduplication can bias your own research even if the source pages are unchanged. Document uncertain matches and explain any decision to combine them. Then use the result with credentials, engagement terms and direct questions rather than treating it as a substitute for those checks."
+      ]
+    ],
+    "checklist": [
+      "Potential repeats linked",
+      "Syndication disclosures captured",
+      "Pages and experiences counted separately",
+      "Dates interpreted cautiously",
+      "Same treatment for positive and negative material"
+    ],
+    "sources": [
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "review-date-service-date",
+    "title": "Separate a review's publication date from the service period",
+    "description": "Build a cautious timeline before applying older feedback to a current engagement.",
+    "intro": "A recently posted review may describe work performed much earlier, while an older item may have been updated after a later interaction. Publication date alone does not tell the whole chronology. This guide helps readers record the dates actually supported by a source and ask current-process questions without inventing missing history or assuming that old feedback no longer matters.",
+    "sections": [
+      [
+        "Identify each visible date",
+        "Record publication, update and response dates as separate fields when the platform provides them. Note any service period the writer explicitly identifies. Do not infer a tax year or engagement duration from the month the review appeared. The visible date can describe an action on the platform rather than the underlying professional work."
+      ],
+      [
+        "Keep unknown timing visible",
+        "If the source does not state when the service occurred, mark that as unknown. A vague phrase about recent work should not be converted into an exact month. Preserve the original context and avoid creating a timeline that looks more certain than the evidence. This is especially important when the reported issue concerns a process that may have changed."
+      ],
+      [
+        "Separate historical experience from current practice",
+        "A reported past interaction and a firm's present procedures are different kinds of information. Ask about current staffing, communication or scope where those matters affect your decision. A current answer does not erase the older report, and an older report does not prove that today's process is identical. Keep both records with their dates and limitations."
+      ],
+      [
+        "Use a timeline exercise",
+        "Suppose you find a source with an original publication date, a later edit marker and a business response in between. Record all three events without assuming what changed in the review. If the platform shows revision history, use it; if it does not, say so. The exercise should reveal the evidence available, not manufacture an account of the disagreement."
+      ],
+      [
+        "Ask a forward-looking question",
+        "Translate a timing concern into a question about the engagement you are considering. For example, ask which person manages progress updates and how delays are escalated under the current proposal. You do not need another client's confidential records to understand the service process that would apply to you."
+      ],
+      [
+        "Avoid a blanket freshness rule",
+        "There is no need to discard every old item or privilege every recent one automatically. Relevance depends on what the source describes and what you need to assess. Record why timing affects the weight you give an item. Use that reasoning alongside source quality, scope and credential checks rather than relying on a date filter alone."
+      ]
+    ],
+    "checklist": [
+      "Publication and edit dates separated",
+      "Service period recorded only if stated",
+      "Unknown timing labeled",
+      "Current-process answer dated",
+      "Reason for relevance documented"
+    ],
+    "sources": [
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "review-verification-labels",
+    "title": "Read review verification labels according to what they verify",
+    "description": "Check a platform's stated meaning before treating a badge as proof of service quality.",
+    "intro": "A verification label can refer to an account, transaction, invitation or another platform process. It does not necessarily verify every statement or the technical quality of tax work. Read the platform's explanation before using a badge in your decision. This guide does not assess a particular platform's controls or authenticate an individual reviewer.",
+    "sections": [
+      [
+        "Find the platform definition",
+        "Look for a current help page or explanation linked to the label. Record its address and access date. Use the platform's own wording to understand the process, but summarize it carefully in your notes. Do not assume that identically named badges on different sites follow the same requirements or cover the same evidence."
+      ],
+      [
+        "Identify the fact being checked",
+        "Ask whether the process relates to identity, a purchase, an invitation or another event. Separate that fact from the content of the review. A connection to a transaction can support relevance without proving that every conclusion in the account is accurate. Keep the limits visible rather than converting the badge into a general certification."
+      ],
+      [
+        "Check the scope and timing",
+        "A verification process may relate to a specific service or time period. Record any visible limits and whether the explanation appears current. Do not infer that the platform reviewed tax returns, checked professional credentials or evaluated advice unless it explicitly says so. Technical service quality requires a different kind of evidence from an account-level label."
+      ],
+      [
+        "Test the interpretation with a question",
+        "As a practical exercise, write one sentence stating exactly what the label supports and one sentence stating what remains unknown. If your second sentence is empty, you may be reading too much into it. This exercise avoids assigning a numerical trust score that suggests more precision than the platform's disclosure provides."
+      ],
+      [
+        "Use other evidence for other questions",
+        "Verify the professional's relevant credentials through appropriate official sources and compare the proposed scope directly. Ask the firm how work is reviewed and documented. A review badge should not replace those steps, just as a credential does not confirm that a particular customer interaction happened exactly as described."
+      ],
+      [
+        "Keep comparisons fair",
+        "When comparing firms on different platforms, note differences in verification methods and access to feedback. Do not reward one label simply because it sounds stronger. Apply the same questions to each source and record unresolved limitations. The resulting research should help you decide what to ask, not claim to certify a provider from third-party badges."
+      ],
+      [
+        "Record the remaining uncertainty",
+        "Keep a short note of what this review step could not establish, which source might answer the question and whether the gap affects your decision. Do not fill the space with an assumed fact. A clear limitation is a useful result when the alternative is unwarranted confidence about somebody else's experience or your own prospective engagement."
+      ]
+    ],
+    "checklist": [
+      "Platform definition located",
+      "Verified fact identified",
+      "Unverified conclusions separated",
+      "Scope and date recorded",
+      "Credentials checked independently"
+    ],
+    "sources": [
+      "FTC_REVIEWS",
+      "IRS_CREDENTIALS"
+    ]
+  },
+  {
+    "slug": "review-service-cohort-matching",
+    "title": "Match feedback to the service you actually need",
+    "description": "Separate bookkeeping, preparation, planning and specialist work when reviewing customer feedback.",
+    "intro": "A comment about one service can be mistakenly used to evaluate another. Bookkeeping, return preparation, prospective planning and specialist studies may involve different teams, records and deliverables. Group feedback by the service actually described before applying it to your own decision. This guide does not assign service-quality scores or assume that a firm provides every service mentioned in general marketing.",
+    "sections": [
+      [
+        "Name your required work first",
+        "Write a short description of the work you want before reading a large volume of feedback. Identify the entities, periods, deliverables and major decisions involved. This gives you a relevance test that does not change with every persuasive anecdote. A broad request for tax help is too vague to distinguish a filing experience from an advisory project."
+      ],
+      [
+        "Classify only what the source supports",
+        "Record the service stated by the writer or leave the category unknown. Do not infer a planning engagement from a mention of taxes or assume a study included return preparation. Keep comments about onboarding, billing and communication separate from technical work. Those themes can be relevant across services without establishing identical delivery responsibilities."
+      ],
+      [
+        "Identify the team where possible",
+        "If the source names a role or team, preserve that context without exposing unnecessary personal details. Confirm the current proposal's actual staffing directly with the firm. Feedback about one professional should not silently become a statement about every employee, and a firm-level description does not prove that a named specialist will work on your engagement."
+      ],
+      [
+        "Build a small relevance matrix",
+        "For a practical exercise, make columns for your needed service, the service described by the source and the question still unanswered. An item about transaction reconciliation may help you ask about record quality but may not address a proposed ownership-change analysis. The matrix should narrow your questions rather than manufacture a combined rating."
+      ],
+      [
+        "Compare written responsibilities",
+        "Use the relevant themes to request a clear scope, including what the client supplies and what happens when records are incomplete. Ask who implements recommendations and who prepares any filings. The provider's answer for your engagement is separate evidence from a reported experience, so keep each dated and attributable in the file."
+      ],
+      [
+        "Keep the final judgment bounded",
+        "A source can be useful even if only part of it matches your needs. Explain which part influenced your questions and which part did not. Avoid discarding unfavorable feedback solely because the service label is unclear while applying favorable feedback broadly. Consistent relevance standards make the selection process more defensible and useful."
+      ]
+    ],
+    "checklist": [
+      "Needed service defined",
+      "Source service identified or unknown",
+      "Process and technical themes separated",
+      "Current team confirmed directly",
+      "Same relevance test applied consistently"
+    ],
+    "sources": [
+      "IRS_CREDENTIALS",
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "reviews-after-team-changes",
+    "title": "Evaluate historical feedback when a firm's team has changed",
+    "description": "Separate evidence about an earlier team from questions about the people assigned today.",
+    "intro": "Staffing, ownership and service processes can change over time. Historical feedback remains a reported experience, but its relevance to a proposed engagement may need closer examination. Record the change you can verify and ask who will perform the work now. Do not assume that a new team automatically fixes every prior concern or that all historical experiences necessarily apply unchanged.",
+    "sections": [
+      [
+        "Verify the change separately",
+        "Use current firm information and direct questions to establish what actually changed. A rumor, an updated photograph or an unfamiliar name does not prove an ownership or staffing transition. Record the source and date of confirmed information. Keep uncertain claims outside the factual timeline until they can be checked appropriately."
+      ],
+      [
+        "Preserve the original feedback context",
+        "Note the service period, named role and issue described where the source provides them. Do not rewrite an old review as a claim about a new employee. Equally, avoid deleting it from your research simply because a personnel change occurred. The source may still raise a useful question about systems, supervision or continuity."
+      ],
+      [
+        "Ask about today's assignment",
+        "Request the roles responsible for preparation, review, communication and escalation under your proposal. Confirm relevant credentials for the professionals involved through appropriate sources. A firm's most visible partner may not perform every task, and the credentials of one person do not establish the qualifications or responsibility of the entire delivery team."
+      ],
+      [
+        "Test continuity in a practical scenario",
+        "Ask how your records and open questions would be handed off if the assigned professional became unavailable. Request an explanation of business-controlled records and review coverage rather than details about another client's case. This turns a concern about change into a question about the process you would actually rely on."
+      ],
+      [
+        "Distinguish claims from completed changes",
+        "A firm may describe plans for a new system, additional hiring or expanded support. Label those as planned until implementation is established. Ask which current terms or procedures support the promise. A planned improvement can be relevant, but it should not be treated as evidence that the new process has already operated successfully."
+      ],
+      [
+        "Document why the information matters",
+        "Record how the confirmed change affects your selection criteria and what remains uncertain. Apply the same approach to positive and negative historical accounts. Your conclusion should be limited to the evidence and proposed scope, rather than declaring that an entire firm's history is either obsolete or permanently determinative."
+      ],
+      [
+        "Record the remaining uncertainty",
+        "Keep a short note of what this review step could not establish, which source might answer the question and whether the gap affects your decision. Do not fill the space with an assumed fact. A clear limitation is a useful result when the alternative is unwarranted confidence about somebody else's experience or your own prospective engagement."
+      ]
+    ],
+    "checklist": [
+      "Change verified independently",
+      "Historical service context preserved",
+      "Current assignment and credentials checked",
+      "Continuity process discussed",
+      "Planned changes separated from implemented ones"
+    ],
+    "sources": [
+      "IRS_CREDENTIALS",
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "review-sort-and-filter-effects",
+    "title": "Notice how review sorting and filters change what you see",
+    "description": "Record the display settings before drawing conclusions from a selected set of feedback.",
+    "intro": "A platform's default view may show the newest, most relevant or otherwise selected feedback. A search engine can display only a short excerpt. Before describing a pattern, record how the material was selected. This guide explains how to make your reading process more transparent; it does not assert how any specific platform ranks content or whether its method is appropriate.",
+    "sections": [
+      [
+        "Record the view settings",
+        "Note the sort order, filters, search terms and access date visible on the page. Identify whether you are reading all available material or a selected subset. Do not assume that the first items shown are representative of the full collection. If the platform does not explain the ordering, record that limitation instead of guessing its algorithm."
+      ],
+      [
+        "Change one setting at a time",
+        "Where the platform permits it, compare a different chronological or service-related view using the same research question. Keep track of what changed. Switching several filters at once can make it hard to understand why the visible themes differ. The exercise is about your evidence selection, not an attempt to reverse-engineer a proprietary ranking system."
+      ],
+      [
+        "Separate availability from emphasis",
+        "An item may be available on the platform but not prominent in the default display. Conversely, one visible item may dominate an excerpt because it matches a search term. Distinguish those situations in your notes. Do not infer that material was suppressed or promoted deceptively merely because it appears in a different position."
+      ],
+      [
+        "Use a reproducibility exercise",
+        "Save the page address and visible settings so a colleague can repeat your reading. If their view differs, check dates, filters and whether either person is logged in before assuming the underlying feedback changed. Record the difference honestly. You do not need to assign a rating to the platform to improve the transparency of your own method."
+      ],
+      [
+        "Look for themes across views",
+        "Ask whether a service-related question persists when you review more than one reasonable view. Keep repeated copies and unrelated services from inflating the apparent pattern. A small selected sample can identify a useful question, but it should not be described as a measured summary of every customer's experience."
+      ],
+      [
+        "Write a bounded conclusion",
+        "State what you read and how it informed your next question. Avoid phrases implying a complete review population when you examined a filtered subset. Combine the observation with current scope and credential checks. Consistent reading methods help prevent a convenient screen view from becoming an unsupported verdict about a firm."
+      ]
+    ],
+    "checklist": [
+      "Sort and filters recorded",
+      "Selected subset identified",
+      "Changes made one at a time",
+      "Repeats and unrelated services separated",
+      "Conclusion limited to the material reviewed"
+    ],
+    "sources": [
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "limited-online-review-history",
+    "title": "Research an adviser with limited online review history",
+    "description": "Use qualifications, scope and process evidence without treating missing reviews as proof either way.",
+    "intro": "Some professional practices have little public customer feedback. That absence does not establish excellent service, poor service or a lack of experience. It means online reviews may offer less information for your decision. Use other appropriate evidence and direct questions without asking a firm to reveal confidential client matters or inventing a reputation from search visibility.",
+    "sections": [
+      [
+        "Define what is actually missing",
+        "Record the sources searched, names used and date of the search. A firm may use a legal name, trade name or location label that affects what you find. Do not claim that no feedback exists anywhere simply because one search produced little. Keep the observation specific to the sources and search terms you reviewed."
+      ],
+      [
+        "Verify professional qualifications",
+        "Identify the professionals proposed for your engagement and use appropriate official resources to check relevant credentials. Ask about the scope they will perform and review. Credentials address a different question from customer satisfaction, so neither should be used as a substitute for the other. Avoid assuming a familiar title establishes all the services you need."
+      ],
+      [
+        "Request process evidence",
+        "Ask for an explanation of deliverables, document collection, review, communication and escalation. A sample format with client information removed can help you understand the work product. You do not need another client's return or private financial information to assess whether the proposed process is clear and suitable for your situation."
+      ],
+      [
+        "Use your own introductory experience carefully",
+        "Notice whether the firm answers your questions, states limits and provides a written scope. An organized first call is useful evidence about that interaction, not proof of every future result. Keep notes about what was promised and what remains unanswered. Do not let a polished presentation replace verification of the actual engagement terms."
+      ],
+      [
+        "Consider references with appropriate limits",
+        "If references are offered with permission, ask questions relevant to process and service scope. Do not solicit confidential tax details or treat selected references as a representative sample. Record how the reference was selected and what it can reasonably establish. A firm's inability to provide a particular client contact is not by itself evidence of poor work."
+      ],
+      [
+        "Make the decision transparent",
+        "Explain which evidence supports your choice and which uncertainty you accept. You may decide to narrow the initial scope or seek additional information, depending on your needs. The important point is to avoid filling an online information gap with assumed facts, whether favorable or unfavorable, about the adviser."
+      ],
+      [
+        "Record the remaining uncertainty",
+        "Keep a short note of what this review step could not establish, which source might answer the question and whether the gap affects your decision. Do not fill the space with an assumed fact. A clear limitation is a useful result when the alternative is unwarranted confidence about somebody else's experience or your own prospective engagement."
+      ]
+    ],
+    "checklist": [
+      "Search limits recorded",
+      "Proposed professionals identified",
+      "Credentials checked appropriately",
+      "Process and scope evidence requested",
+      "Remaining uncertainty explicitly considered"
+    ],
+    "sources": [
+      "IRS_CREDENTIALS",
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "conflicting-review-accounts",
+    "title": "Evaluate conflicting review accounts without choosing facts by sentiment",
+    "description": "Separate reported experiences, disputed facts and current engagement questions.",
+    "intro": "Two accounts of the same interaction can conflict, and a public reader may lack the records needed to resolve them. A useful evaluation separates what each source reports from what can actually be checked. This guide does not adjudicate a dispute or assess any real customer review. It helps you form fair questions while recognizing the limits of public information.",
+    "sections": [
+      [
+        "Identify the disputed point",
+        "Write down the specific point of disagreement in neutral terms. A disagreement about response timing differs from one about the scope purchased or the outcome expected. Avoid reducing the issue to a positive source versus a negative source. A clear statement of the question makes it easier to see which evidence is relevant and what remains unavailable."
+      ],
+      [
+        "Preserve each account accurately",
+        "Link the original sources and record their dates and roles. Do not blend statements into a new narrative that neither source made. Distinguish a person describing their own experience from somebody repeating an account. If a source was edited, identify what history is visible without assuming the reason for the change."
+      ],
+      [
+        "Check accessible facts",
+        "Look for current public terms, stated service descriptions or other information that can be independently checked. These may clarify context without resolving a private dispute. Do not ask a firm to disclose another client's confidential records. A lack of public rebuttal or documentary detail does not by itself establish that either account is correct."
+      ],
+      [
+        "Use a two-column exercise",
+        "In your research file, separate reported statements from verified facts. Add a third area for questions that remain open. For example, a source may report an expectation while a current service page describes a narrower offering; the reader still needs the actual agreement to determine what applied at the time. The exercise should expose that gap, not erase it."
+      ],
+      [
+        "Ask about your prospective engagement",
+        "Translate the disputed theme into a question about the process and terms you would receive. If communication is the issue, ask who owns updates and escalation. If scope is disputed, ask for written inclusions and exclusions. Record the answer separately; it informs your decision but does not settle the historical disagreement."
+      ],
+      [
+        "Avoid an unsupported verdict",
+        "You may decide that unresolved uncertainty matters to your choice, but state that as your decision rather than a proven conclusion about misconduct or quality. Apply the same standard to accounts you find persuasive and those you dislike. Use qualifications, scope and your own evidence gathering alongside the public material."
+      ],
+      [
+        "Record the remaining uncertainty",
+        "Keep a short note of what this review step could not establish, which source might answer the question and whether the gap affects your decision. Do not fill the space with an assumed fact. A clear limitation is a useful result when the alternative is unwarranted confidence about somebody else's experience or your own prospective engagement."
+      ]
+    ],
+    "checklist": [
+      "Disagreement stated neutrally",
+      "Original accounts kept separate",
+      "Accessible facts distinguished",
+      "Confidential gaps acknowledged",
+      "Prospective engagement questions recorded"
+    ],
+    "sources": [
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "edited-review-history",
+    "title": "Read an edited review without inventing its missing history",
+    "description": "Track visible revisions, dates and responses while preserving uncertainty about prior versions.",
+    "intro": "An edit marker can tell you that a review changed, but it may not show what changed or why. A reader should not reconstruct an earlier version from memory or assume that an edit proves a dispute was resolved. This guide explains how to document visible history and keep later updates in context without publishing a new account of the customer's experience.",
+    "sections": [
+      [
+        "Record the available version",
+        "Link the current original source and note the access date, visible publication date and edit marker. Identify whether the platform provides a revision history. A screenshot from an earlier search may not be complete or reliably dated. Keep the kind of evidence clear before comparing versions."
+      ],
+      [
+        "Compare only versions you can support",
+        "If two accessible versions exist, identify the documented differences without guessing at deleted wording. Preserve the source of each version. Do not merge them into an apparently continuous narrative or suggest that a change had a particular cause unless a reliable source states it. A reader's inference should remain labeled as an inference."
+      ],
+      [
+        "Separate response and revision timing",
+        "A business response may precede or follow an edit, but the sequence alone does not prove causation. Record each date and any explicit explanation available. Avoid treating a later update as confirmation that every issue was fixed or that the original report was wrong. Those conclusions may require private information unavailable to a public reader."
+      ],
+      [
+        "Work through a documentation example",
+        "Suppose your file contains an older saved excerpt and a current page with an edit label. Note what each source actually preserves and whether the older excerpt is incomplete. The useful result may simply be that the text changed but the full revision history is unavailable. Do not fill the missing portion with a plausible story."
+      ],
+      [
+        "Check present-day relevance separately",
+        "Ask the firm about the current process relevant to your intended service. A historical revision may lead you to ask about communication or scope, but it should not replace a written proposal. Keep your current evidence in a separate part of the file so it does not appear to authenticate the earlier exchange."
+      ],
+      [
+        "Use restrained conclusions",
+        "State the version and date you relied on when summarizing your own research. If a later change materially affects your decision, revisit it rather than continuing to rely on an obsolete excerpt. Apply the same care to improved and worsened accounts. Editing is a fact to document, not a stand-alone measure of trustworthiness."
+      ],
+      [
+        "Record the remaining uncertainty",
+        "Keep a short note of what this review step could not establish, which source might answer the question and whether the gap affects your decision. Do not fill the space with an assumed fact. A clear limitation is a useful result when the alternative is unwarranted confidence about somebody else's experience or your own prospective engagement."
+      ]
+    ],
+    "checklist": [
+      "Current source and access date",
+      "Visible version history",
+      "Responses dated separately",
+      "Missing history left unknown",
+      "Current-service questions kept distinct"
+    ],
+    "sources": [
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "review-incentive-context",
+    "title": "Assess review incentives without assuming an experience is false",
+    "description": "Look for disclosed relationships and consider how collection methods affect the evidence.",
+    "intro": "A review can reflect a real experience while also being influenced by how it was requested or encouraged. The relevant relationship and the platform's collection process help a reader interpret it. This guide does not investigate a particular review, declare it unlawful or provide legal advice to publishers. It points readers to current FTC guidance and a careful evidence method.",
+    "sections": [
+      [
+        "Look for the actual disclosure",
+        "Record any visible statement about a discount, free service, reward, referral or other connection. Preserve its location and the source date. Do not infer a payment simply because the wording is enthusiastic or several reviews appeared close together. A missing disclosure can be a question, but it is not proof of a specific undisclosed arrangement."
+      ],
+      [
+        "Understand the collection context",
+        "Read available platform or publisher explanations about how feedback is requested and displayed. Different methods can influence who responds. The FTC provides guidance about reviews, testimonials and relevant relationships; use the current material for its proper purpose rather than turning a short checklist into a legal determination about an individual source."
+      ],
+      [
+        "Separate authenticity and influence",
+        "Whether a person had an experience and whether an incentive could affect their account are different questions. A disclosed relationship may change the weight you give the material without proving the entire account false. Conversely, a label does not independently verify every factual claim. Keep these distinctions in your research notes."
+      ],
+      [
+        "Test your reasoning consistently",
+        "Consider whether you would apply the same standard to a favorable and an unfavorable item with the same disclosed relationship. If not, your own selection process may be biased. Write the relationship, the limitation and the remaining useful information in separate fields rather than assigning a simplistic authentic-or-fake label."
+      ],
+      [
+        "Seek evidence for your own decision",
+        "Ask about the proposed service, credentials, responsibilities and fee terms directly. Do not demand personal details about another client's incentive arrangement. A clear engagement process can answer your prospective questions without settling the history of a public review. Record those answers as new evidence, not as confirmation of the source."
+      ],
+      [
+        "Keep legal questions with qualified advice",
+        "If you publish or solicit reviews yourself, consult the applicable current rules, platform terms and qualified counsel where needed. This reader guide is not a compliance opinion. Its practical lesson is to understand the context of the material and avoid inventing motives, relationships or legal conclusions that the available evidence does not establish."
+      ],
+      [
+        "Record the remaining uncertainty",
+        "Keep a short note of what this review step could not establish, which source might answer the question and whether the gap affects your decision. Do not fill the space with an assumed fact. A clear limitation is a useful result when the alternative is unwarranted confidence about somebody else's experience or your own prospective engagement."
+      ]
+    ],
+    "checklist": [
+      "Visible relationships recorded",
+      "Collection method reviewed",
+      "Authenticity and influence separated",
+      "Consistent standard applied",
+      "Current FTC guidance linked"
+    ],
+    "sources": [
+      "FTC_RULE",
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "referral-source-due-diligence",
+    "title": "Use a referral as an introduction, not a completed adviser check",
+    "description": "Clarify the referrer's experience, relationship and limits before choosing a tax professional.",
+    "intro": "A referral can help you find a candidate, but the referrer may have used a different service or have a relationship you need to understand. Treat the introduction as a starting point for your own due diligence. This guide does not judge any particular referral or imply that a personal connection makes advice unreliable. It helps separate relevant experience from assumptions.",
+    "sections": [
+      [
+        "Ask what the referrer actually knows",
+        "Clarify whether the person used the firm, worked alongside it, met a team member or heard about it elsewhere. Identify the service and period they can discuss without seeking confidential tax details. A recommendation based on a simple filing experience may not answer questions about a complex prospective transaction."
+      ],
+      [
+        "Understand relevant relationships",
+        "Ask neutrally about any professional, employment or commercial connection that matters to the recommendation. Record what is disclosed rather than assuming a financial arrangement. The FTC's guidance can provide background on endorsements and relationships, but the reader should not make an unsupported legal conclusion from incomplete information."
+      ],
+      [
+        "Separate introduction from representation",
+        "A referrer may be willing to introduce you without guaranteeing the provider's work. Do not attribute a stronger endorsement than they actually gave. Similarly, a firm's mention of a shared contact does not prove that the contact assessed your proposed engagement or reviewed the firm's current service quality."
+      ],
+      [
+        "Use a service-matching exercise",
+        "Write your intended scope beside the referrer's relevant experience. Mark the parts that overlap and the parts that remain untested. The exercise should produce a short list of questions, not a rating. For example, you may still need to ask who handles implementation or filings even if the referrer found an introductory conversation useful."
+      ],
+      [
+        "Perform the independent checks",
+        "Identify the professionals proposed for your work, verify relevant credentials and obtain a written scope. Review fees, responsibilities and support directly with the candidate. Those steps are needed even when the referral comes from someone you trust, because the specific work and current team may differ from the referrer's experience."
+      ],
+      [
+        "Record the basis for your choice",
+        "Keep the referral context with the other evidence you considered. Note which questions it helped answer and which it did not. A transparent decision record avoids turning personal trust into an unsupported statement about every aspect of a provider. It also makes it easier to revisit the selection if your service needs change."
+      ],
+      [
+        "Record the remaining uncertainty",
+        "Keep a short note of what this review step could not establish, which source might answer the question and whether the gap affects your decision. Do not fill the space with an assumed fact. A clear limitation is a useful result when the alternative is unwarranted confidence about somebody else's experience or your own prospective engagement."
+      ]
+    ],
+    "checklist": [
+      "Referrer's actual experience",
+      "Relevant relationships disclosed",
+      "Recommendation stated accurately",
+      "Scope overlap mapped",
+      "Independent credentials and proposal checks"
+    ],
+    "sources": [
+      "FTC_RULE",
+      "IRS_CREDENTIALS"
+    ]
+  },
+  {
+    "slug": "public-response-confidentiality",
+    "title": "Interpret a firm's public response with confidentiality limits in mind",
+    "description": "Separate response style from facts that cannot be resolved in a public exchange.",
+    "intro": "A public response to feedback may be brief because the firm cannot or chooses not to discuss another person's matter openly. A reader should evaluate what is actually said without assuming silence proves indifference or that a detailed rebuttal proves correctness. This guide does not determine a professional's confidentiality duties. It helps prospective clients ask about the process that would apply to them.",
+    "sections": [
+      [
+        "Separate tone from factual resolution",
+        "You can observe whether a response is courteous, clear or offers a contact route, but those observations do not settle the underlying dispute. Avoid treating a polished response as proof of technical quality. Equally, an incomplete public explanation may leave facts unknown rather than establish that no explanation exists."
+      ],
+      [
+        "Identify the claimed next step",
+        "Record whether the response invites private contact, says a review is underway or describes a completed action. These are different statements. Do not convert an invitation to discuss into evidence that a problem was resolved. Preserve the date and original source so you can distinguish an initial reply from a later update."
+      ],
+      [
+        "Respect the information boundary",
+        "Do not ask the firm or reviewer to disclose tax returns, private financial details or other sensitive material merely to satisfy a public reader. The absence of those records limits what can be concluded. Your own due diligence can focus on current responsibilities, communication and escalation without investigating another client's private file."
+      ],
+      [
+        "Test a process question instead",
+        "Ask how a concern would be raised during your engagement, who reviews it and how the outcome is documented. Request the relevant current policy or engagement wording where available. This is a practical alternative to deciding who was right in a historical exchange that you cannot fully inspect."
+      ],
+      [
+        "Keep response and outcome evidence distinct",
+        "A source may report a later resolution, but record who says so and what supporting information is available. Do not assume a changed rating or deleted comment tells the whole story. The evidence file should allow another reader to see which parts remain reported experience and which parts you independently confirmed."
+      ],
+      [
+        "Make a bounded selection decision",
+        "Use the exchange to identify questions that matter to your service needs. Combine the answers with credential checks and written scope. You may decide that an unresolved concern affects your comfort level, but describe that as a decision under uncertainty rather than a proven legal or professional finding."
+      ],
+      [
+        "Record the remaining uncertainty",
+        "Keep a short note of what this review step could not establish, which source might answer the question and whether the gap affects your decision. Do not fill the space with an assumed fact. A clear limitation is a useful result when the alternative is unwarranted confidence about somebody else's experience or your own prospective engagement."
+      ]
+    ],
+    "checklist": [
+      "Tone and facts separated",
+      "Proposed and completed actions distinguished",
+      "Private records not solicited",
+      "Current escalation process requested",
+      "Conclusion limited to available evidence"
+    ],
+    "sources": [
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "reported-tax-result-context",
+    "title": "Read a reported tax result without treating it as your forecast",
+    "description": "Identify missing baseline, timing and service facts before relying on a result claim.",
+    "intro": "A reported result in feedback can sound compelling while omitting the facts that would make it comparable to your situation. Tax outcomes depend on the taxpayer, period, baseline and implementation, and a public reader may not be able to verify them. This guide does not reproduce or certify any result claim. It helps you identify what remains unknown before discussing your own engagement.",
+    "sections": [
+      [
+        "Identify what the result measures",
+        "Determine whether the source refers to a refund, a projected change, a deduction, a payment timing difference or another measure. Do not treat these as interchangeable. A description without a defined measure cannot support a precise comparison. Record the wording in a source reference without converting it into a stronger financial claim."
+      ],
+      [
+        "Look for the baseline and period",
+        "Ask what the result is compared with and which year or transaction it concerns, if the source states that information. An outcome may depend on assumptions or prior reporting that differ from yours. Leave missing details unknown. A date attached to the feedback does not necessarily establish the tax period or when an analysis was implemented."
+      ],
+      [
+        "Separate reported experience from verified evidence",
+        "A writer may sincerely describe a result without supplying the underlying records a professional would need to assess it. Do not treat confidence or enthusiasm as independent verification. Equally, a reader's inability to verify a claim does not automatically prove it false. Keep those limits clear in the research file."
+      ],
+      [
+        "Use a question-building exercise",
+        "Instead of copying a number into your own budget, list the inputs a qualified adviser would need to analyze your case. These may include current records, entities, planned transactions and implementation facts. The exercise turns an attention-grabbing result into a preparation task without implying that the same outcome is available to you."
+      ],
+      [
+        "Request a scoped analysis",
+        "Ask the candidate to describe its process, assumptions, deliverables and limits for your circumstances. Confirm whether implementation and filing are part of the proposed work. A preliminary projection is different from an implemented and reported result, so retain those stages separately rather than treating a proposal as a completed outcome."
+      ],
+      [
+        "Avoid a savings-based ranking",
+        "Do not rank firms by public result figures that lack comparable definitions and verified inputs. Use the information as one prompt for questions alongside qualifications and scope. This AE-owned guide provides no customer result, projected benefit or guarantee. A decision about your own tax position requires review by the appropriate qualified professional."
+      ]
+    ],
+    "checklist": [
+      "Result measure identified",
+      "Baseline and period checked",
+      "Reported and verified evidence separated",
+      "Own facts prepared for analysis",
+      "No transfer of another result into a forecast"
+    ],
+    "sources": [
+      "IRS_CREDENTIALS",
+      "FTC_RULE"
+    ]
+  },
+  {
+    "slug": "business-name-review-matching",
+    "title": "Match a review profile to the business you are considering",
+    "description": "Check names, locations and service identities before combining feedback across profiles.",
+    "intro": "Similar business names, location pages and older trade names can cause readers to combine feedback that does not belong to the same service provider. A matching exercise should use current public information and preserve uncertainty. This guide does not investigate any real firm's history or imply that a name change conceals a problem. It helps keep the research population accurate.",
+    "sections": [
+      [
+        "Record the profile identity",
+        "Note the business name, location, website and contact information shown by the source. Save the original profile address and access date. A search snippet can omit details that distinguish one practice from another. Open the source before assuming it refers to the candidate you intend to contact."
+      ],
+      [
+        "Compare current official information",
+        "Use the candidate's own current contact and entity information to identify apparent matches or discrepancies. Ask the firm to clarify where needed. Do not infer common ownership solely from similar branding or a shared address. A location label may describe a branch, directory category or historical entry rather than a separate business."
+      ],
+      [
+        "Keep historical names dated",
+        "If a reliable source identifies a former name or change, record what it says and the relevant dates. Avoid combining all material under a new name without checking the relationship. The fact that a profile still displays an old label does not itself establish that every review describes the present team, service or legal entity."
+      ],
+      [
+        "Use a matching table",
+        "Create columns for the profile, candidate website, matching identifiers and unresolved differences. Do not assign a definitive match from one weak field. For example, a similar name may require a location or contact check before the profile is included. The table should help another reader reproduce your selection of sources."
+      ],
+      [
+        "Separate uncertain sources from conclusions",
+        "You can keep a potentially relevant profile in a research file while labeling its identity as unconfirmed. Do not let its feedback alter a summary count or apparent pattern as though the match were established. Apply the same standard regardless of whether the material favors or criticizes the candidate."
+      ],
+      [
+        "Confirm the proposed contracting party",
+        "Before hiring, identify the entity and professionals named in the actual engagement. That current relationship matters even if the online profile match is clear. Use reviews as context, not as a substitute for knowing who will provide the service, who is accountable for it and what the agreement covers."
+      ],
+      [
+        "Record the remaining uncertainty",
+        "Keep a short note of what this review step could not establish, which source might answer the question and whether the gap affects your decision. Do not fill the space with an assumed fact. A clear limitation is a useful result when the alternative is unwarranted confidence about somebody else's experience or your own prospective engagement."
+      ]
+    ],
+    "checklist": [
+      "Original profile identifiers",
+      "Current official details compared",
+      "Historical changes dated",
+      "Uncertain matches excluded from totals",
+      "Actual contracting party confirmed"
+    ],
+    "sources": [
+      "FTC_REVIEWS"
+    ]
+  },
+  {
+    "slug": "review-research-interview-agenda",
+    "title": "Turn review research into a focused adviser interview agenda",
+    "description": "Convert themes into neutral, answerable questions without repeating unverified allegations.",
+    "intro": "Review research is most useful when it produces questions you can answer for your own engagement. An interview agenda should not become a cross-examination about strangers' private matters or a list of assumptions drawn from anecdotes. This guide helps you translate relevant themes into current service questions, record the answers and identify what still requires documentary confirmation.",
+    "sections": [
+      [
+        "Choose the themes that affect your scope",
+        "Start with the work you need and select only themes relevant to it. Communication, record requests, implementation and billing may matter differently depending on the engagement. Avoid copying every dramatic statement into the agenda. A short set of important questions is more usable than a long list of grievances from unrelated services."
+      ],
+      [
+        "Translate themes into neutral questions",
+        "Ask how the process works rather than whether an unverified accusation is true. A concern about delays can become a question about required inputs, updates and escalation. A scope concern can become a request for inclusions and exclusions. The question should be answerable without disclosing another client's information."
+      ],
+      [
+        "Request evidence proportionate to the question",
+        "A written scope, sample format with private information removed, current credential reference or description of the approval process may help. Do not request sensitive client files as a demonstration. Identify which answers need to appear in the engagement agreement and which are general background rather than binding commitments."
+      ],
+      [
+        "Use a consistent interview sheet",
+        "Ask competing candidates the same core questions using the same facts. Record their actual answers, the date and any requested clarification. Do not summarize one candidate generously and another narrowly. A consistent sheet helps reveal genuine scope differences without claiming that it produces an independent quality score."
+      ],
+      [
+        "Resolve gaps before relying on promises",
+        "Follow up on unclear responsibilities, exclusions and fee triggers. Distinguish planned improvements from the process currently offered. A helpful conversation is valuable, but it should not silently expand the signed engagement. Keep an open-item list until the material questions are answered or you consciously decide how to handle the uncertainty."
+      ],
+      [
+        "Write down the basis for the decision",
+        "Summarize the evidence that mattered, unresolved limits and the scope you selected. Keep the original review sources separate from the provider's current answers. This preserves the difference between reported experience and your own due diligence, and helps you revisit the decision if the business's needs change later."
+      ],
+      [
+        "Record the remaining uncertainty",
+        "Keep a short note of what this review step could not establish, which source might answer the question and whether the gap affects your decision. Do not fill the space with an assumed fact. A clear limitation is a useful result when the alternative is unwarranted confidence about somebody else's experience or your own prospective engagement."
+      ]
+    ],
+    "checklist": [
+      "Relevant themes selected",
+      "Neutral process questions written",
+      "Appropriate evidence requested",
+      "Same core questions across candidates",
+      "Open items and decision basis retained"
+    ],
+    "sources": [
+      "IRS_CREDENTIALS",
+      "FTC_REVIEWS"
+    ]
+  }
+]
